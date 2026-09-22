@@ -324,8 +324,12 @@
       return;
     }
 
-    // win check
-    if (countDestructible() === 0 || (S.lv && S.lv.winScore && S.score >= S.lv.winScore)) {
+    // win check: classic rule — the level is cleared only when EVERY destructible
+    // brick (type 1 and 3) is gone. NOTE: the earlier `S.score >= lv.winScore`
+    // secondary condition caused an auto-advance cascade (score carries across
+    // levels, winScore is per-level => instant clear every level once the running
+    // score exceeded it). Removed: only full clear ends a level.
+    if (countDestructible() === 0) {
       levelClear();
     }
   }

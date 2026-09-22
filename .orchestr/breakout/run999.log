@@ -1,0 +1,1424 @@
+breakout 999 continuous run started 2026-09-22T15:26:23.033Z
+clear  n=1 type=1 steps=8014 score=400 total=8014 t=0.0s
+clear  n=2 type=1 steps=8378 score=900 total=16392 t=0.0s
+clear  n=3 type=1 steps=6648 score=1400 total=23040 t=0.0s
+dot    n=4 bricks=1 score=1890 t=0.0s
+clear  n=4 type=1 steps=8309 score=1900 total=31349 t=0.0s
+clear  n=5 type=1 steps=6849 score=2400 total=38198 t=0.0s
+clear  n=6 type=1 steps=8390 score=2900 total=46588 t=0.1s
+clear  n=7 type=1 steps=6666 score=3400 total=53254 t=0.1s
+dot    n=8 bricks=8 score=3820 t=0.1s
+clear  n=8 type=1 steps=12063 score=3900 total=65317 t=0.1s
+clear  n=9 type=1 steps=11731 score=4400 total=77048 t=0.1s
+clear  n=10 type=1 steps=8453 score=4900 total=85501 t=0.1s
+dot    n=11 bricks=15 score=5250 t=0.1s
+clear  n=11 type=1 steps=13959 score=5400 total=99460 t=0.1s
+clear  n=12 type=1 steps=6500 score=5900 total=105960 t=0.1s
+clear  n=13 type=1 steps=7980 score=6400 total=113940 t=0.1s
+clear  n=14 type=1 steps=10244 score=6900 total=124184 t=0.1s
+dot    n=15 bricks=40 score=7000 t=0.1s
+clear  n=15 type=1 steps=11580 score=7400 total=135764 t=0.1s
+clear  n=16 type=2 steps=8863 score=7670 total=144627 t=0.1s
+clear  n=17 type=2 steps=8589 score=7940 total=153216 t=0.1s
+dot    n=18 bricks=14 score=8070 t=0.1s
+clear  n=18 type=2 steps=8266 score=8210 total=161482 t=0.1s
+clear  n=19 type=2 steps=5008 score=8480 total=166490 t=0.1s
+clear  n=20 type=2 steps=8710 score=8750 total=175200 t=0.1s
+clear  n=21 type=2 steps=5341 score=9020 total=180541 t=0.1s
+dot    n=22 bricks=7 score=9220 t=0.1s
+clear  n=22 type=2 steps=8521 score=9290 total=189062 t=0.1s
+clear  n=23 type=2 steps=7304 score=9560 total=196366 t=0.1s
+clear  n=24 type=2 steps=6348 score=9830 total=202714 t=0.1s
+milestone n=25 t=0.1s
+clear  n=25 type=2 steps=5345 score=10100 total=208059 t=0.1s
+clear  n=26 type=2 steps=6106 score=10370 total=214165 t=0.1s
+dot    n=27 bricks=17 score=10470 t=0.1s
+clear  n=27 type=2 steps=10678 score=10640 total=224843 t=0.1s
+clear  n=28 type=2 steps=6099 score=10910 total=230942 t=0.2s
+clear  n=29 type=2 steps=7768 score=11180 total=238710 t=0.2s
+dot    n=30 bricks=2 score=11430 t=0.2s
+clear  n=30 type=2 steps=8902 score=11450 total=247612 t=0.2s
+clear  n=31 type=3 steps=6213 score=11800 total=253825 t=0.2s
+clear  n=32 type=3 steps=5812 score=12150 total=259637 t=0.2s
+clear  n=33 type=3 steps=6517 score=12500 total=266154 t=0.2s
+clear  n=34 type=3 steps=4364 score=12850 total=270518 t=0.2s
+clear  n=35 type=3 steps=6496 score=13200 total=277014 t=0.2s
+dot    n=36 bricks=25 score=13300 t=0.2s
+clear  n=36 type=3 steps=4608 score=13550 total=281622 t=0.2s
+clear  n=37 type=3 steps=6150 score=13900 total=287772 t=0.2s
+clear  n=38 type=3 steps=6784 score=14250 total=294556 t=0.2s
+clear  n=39 type=3 steps=5907 score=14600 total=300463 t=0.2s
+clear  n=40 type=3 steps=6553 score=14950 total=307016 t=0.2s
+dot    n=41 bricks=25 score=15050 t=0.2s
+clear  n=41 type=3 steps=5109 score=15300 total=312125 t=0.2s
+clear  n=42 type=3 steps=7135 score=15650 total=319260 t=0.2s
+clear  n=43 type=3 steps=6096 score=16000 total=325356 t=0.2s
+dot    n=44 bricks=1 score=16340 t=0.2s
+clear  n=44 type=3 steps=11767 score=16350 total=337123 t=0.2s
+clear  n=45 type=3 steps=6106 score=16700 total=343229 t=0.2s
+clear  n=46 type=4 steps=6320 score=17080 total=349549 t=0.2s
+clear  n=47 type=4 steps=8948 score=17460 total=358497 t=0.2s
+clear  n=48 type=4 steps=6312 score=17840 total=364809 t=0.2s
+clear  n=49 type=4 steps=7625 score=18220 total=372434 t=0.2s
+milestone n=50 t=0.2s
+dot    n=50 bricks=28 score=18320 t=0.2s
+clear  n=50 type=4 steps=6145 score=18600 total=378579 t=0.2s
+clear  n=51 type=4 steps=4790 score=18980 total=383369 t=0.2s
+clear  n=52 type=4 steps=7590 score=19360 total=390959 t=0.2s
+clear  n=53 type=4 steps=7427 score=19740 total=398386 t=0.2s
+dot    n=54 bricks=4 score=20080 t=0.2s
+clear  n=54 type=4 steps=6678 score=20120 total=405064 t=0.2s
+clear  n=55 type=4 steps=6410 score=20500 total=411474 t=0.3s
+clear  n=56 type=4 steps=7900 score=20880 total=419374 t=0.3s
+clear  n=57 type=4 steps=8541 score=21260 total=427915 t=0.3s
+dot    n=58 bricks=3 score=21610 t=0.3s
+clear  n=58 type=4 steps=8557 score=21640 total=436472 t=0.3s
+clear  n=59 type=4 steps=9953 score=22020 total=446425 t=0.3s
+clear  n=60 type=4 steps=6613 score=22400 total=453038 t=0.3s
+clear  n=61 type=5 steps=4724 score=22730 total=457762 t=0.3s
+dot    n=62 bricks=2 score=23040 t=0.3s
+clear  n=62 type=5 steps=5169 score=23060 total=462931 t=0.3s
+clear  n=63 type=5 steps=3924 score=23390 total=466855 t=0.3s
+clear  n=64 type=5 steps=6535 score=23720 total=473390 t=0.3s
+clear  n=65 type=5 steps=4512 score=24050 total=477902 t=0.3s
+clear  n=66 type=5 steps=11817 score=24380 total=489719 t=0.3s
+dot    n=67 bricks=12 score=24590 t=0.3s
+clear  n=67 type=5 steps=7581 score=24710 total=497300 t=0.3s
+clear  n=68 type=5 steps=8714 score=25040 total=506014 t=0.3s
+clear  n=69 type=5 steps=6213 score=25370 total=512227 t=0.3s
+clear  n=70 type=5 steps=6365 score=25700 total=518592 t=0.3s
+clear  n=71 type=5 steps=2256 score=26030 total=520848 t=0.3s
+dot    n=72 bricks=14 score=26220 t=0.3s
+clear  n=72 type=5 steps=5961 score=26360 total=526809 t=0.3s
+clear  n=73 type=5 steps=4695 score=26690 total=531504 t=0.3s
+clear  n=74 type=5 steps=5380 score=27020 total=536884 t=0.3s
+milestone n=75 t=0.3s
+clear  n=75 type=5 steps=2766 score=27340 total=539650 t=0.3s
+clear  n=76 type=6 steps=6658 score=27810 total=546308 t=0.3s
+clear  n=77 type=6 steps=10358 score=28280 total=556666 t=0.3s
+dot    n=78 bricks=37 score=28380 t=0.3s
+clear  n=78 type=6 steps=11965 score=28750 total=568631 t=0.3s
+clear  n=79 type=6 steps=9245 score=29220 total=577876 t=0.3s
+clear  n=80 type=6 steps=8536 score=29690 total=586412 t=0.3s
+dot    n=81 bricks=36 score=29800 t=0.3s
+clear  n=81 type=6 steps=6451 score=30160 total=592863 t=0.3s
+clear  n=82 type=6 steps=8853 score=30630 total=601716 t=0.3s
+clear  n=83 type=6 steps=5883 score=31100 total=607599 t=0.4s
+clear  n=84 type=6 steps=9609 score=31560 total=617208 t=0.4s
+dot    n=85 bricks=36 score=31660 t=0.4s
+clear  n=85 type=6 steps=13283 score=32020 total=630491 t=0.4s
+clear  n=86 type=6 steps=9643 score=32480 total=640134 t=0.4s
+clear  n=87 type=6 steps=6810 score=32940 total=646944 t=0.4s
+dot    n=88 bricks=34 score=33060 t=0.4s
+clear  n=88 type=6 steps=5636 score=33400 total=652580 t=0.4s
+clear  n=89 type=6 steps=12594 score=33860 total=665174 t=0.4s
+clear  n=90 type=6 steps=11627 score=34320 total=676801 t=0.4s
+clear  n=91 type=7 steps=10123 score=34700 total=686924 t=0.4s
+dot    n=92 bricks=28 score=34800 t=0.4s
+clear  n=92 type=7 steps=7991 score=35080 total=694915 t=0.4s
+clear  n=93 type=7 steps=8280 score=35450 total=703195 t=0.4s
+clear  n=94 type=7 steps=10285 score=35830 total=713480 t=0.4s
+dot    n=95 bricks=3 score=36200 t=0.4s
+clear  n=95 type=7 steps=5903 score=36230 total=719383 t=0.4s
+clear  n=96 type=7 steps=6461 score=36600 total=725844 t=0.4s
+clear  n=97 type=7 steps=5725 score=36990 total=731569 t=0.4s
+clear  n=98 type=7 steps=8708 score=37380 total=740277 t=0.4s
+clear  n=99 type=7 steps=5567 score=37730 total=745844 t=0.4s
+milestone n=100 t=0.4s
+dot    n=100 bricks=19 score=37920 t=0.4s
+clear  n=100 type=7 steps=6040 score=38110 total=751884 t=0.4s
+clear  n=101 type=7 steps=6729 score=38450 total=758613 t=0.4s
+clear  n=102 type=7 steps=6666 score=38830 total=765279 t=0.4s
+clear  n=103 type=7 steps=5676 score=39160 total=770955 t=0.4s
+dot    n=104 bricks=1 score=39550 t=0.4s
+clear  n=104 type=7 steps=8171 score=39560 total=779126 t=0.4s
+clear  n=105 type=7 steps=9635 score=39970 total=788761 t=0.4s
+clear  n=106 type=7 steps=14262 score=40360 total=803023 t=0.5s
+dot    n=107 bricks=15 score=40630 t=0.5s
+clear  n=107 type=7 steps=8591 score=40780 total=811614 t=0.5s
+clear  n=108 type=7 steps=6653 score=41180 total=818267 t=0.5s
+clear  n=109 type=7 steps=6358 score=41520 total=824625 t=0.5s
+clear  n=110 type=7 steps=9470 score=41890 total=834095 t=0.5s
+dot    n=111 bricks=7 score=42170 t=0.5s
+clear  n=111 type=7 steps=5744 score=42240 total=839839 t=0.5s
+clear  n=112 type=7 steps=5193 score=42600 total=845032 t=0.5s
+clear  n=113 type=7 steps=8886 score=43000 total=853918 t=0.5s
+clear  n=114 type=7 steps=7305 score=43350 total=861223 t=0.5s
+dot    n=115 bricks=1 score=43700 t=0.5s
+clear  n=115 type=7 steps=6471 score=43710 total=867694 t=0.5s
+clear  n=116 type=7 steps=5630 score=44020 total=873324 t=0.5s
+clear  n=117 type=7 steps=6595 score=44400 total=879919 t=0.5s
+clear  n=118 type=7 steps=8351 score=44780 total=888270 t=0.5s
+clear  n=119 type=7 steps=4881 score=45130 total=893151 t=0.5s
+dot    n=120 bricks=5 score=45460 t=0.5s
+clear  n=120 type=7 steps=7031 score=45510 total=900182 t=0.5s
+clear  n=121 type=7 steps=6648 score=45840 total=906830 t=0.5s
+clear  n=122 type=7 steps=11111 score=46220 total=917941 t=0.5s
+clear  n=123 type=7 steps=6342 score=46580 total=924283 t=0.5s
+dot    n=124 bricks=2 score=46850 t=0.5s
+clear  n=124 type=7 steps=4508 score=46870 total=928791 t=0.5s
+milestone n=125 t=0.5s
+clear  n=125 type=7 steps=7116 score=47200 total=935907 t=0.5s
+clear  n=126 type=7 steps=6280 score=47550 total=942187 t=0.5s
+clear  n=127 type=7 steps=6382 score=47900 total=948569 t=0.5s
+clear  n=128 type=7 steps=6758 score=48280 total=955327 t=0.5s
+dot    n=129 bricks=17 score=48480 t=0.5s
+clear  n=129 type=7 steps=14720 score=48650 total=970047 t=0.5s
+clear  n=130 type=7 steps=6205 score=49030 total=976252 t=0.5s
+clear  n=131 type=7 steps=5070 score=49390 total=981322 t=0.5s
+dot    n=132 bricks=3 score=49710 t=0.6s
+clear  n=132 type=7 steps=8339 score=49740 total=989661 t=0.6s
+clear  n=133 type=7 steps=6116 score=50090 total=995777 t=0.6s
+clear  n=134 type=7 steps=5818 score=50460 total=1001595 t=0.6s
+clear  n=135 type=7 steps=3652 score=50790 total=1005247 t=0.6s
+clear  n=136 type=7 steps=9710 score=51160 total=1014957 t=0.6s
+dot    n=137 bricks=10 score=51430 t=0.6s
+clear  n=137 type=7 steps=8093 score=51530 total=1023050 t=0.6s
+clear  n=138 type=7 steps=5843 score=51880 total=1028893 t=0.6s
+clear  n=139 type=7 steps=8098 score=52250 total=1036991 t=0.6s
+clear  n=140 type=7 steps=6726 score=52560 total=1043717 t=0.6s
+dot    n=141 bricks=5 score=52830 t=0.6s
+clear  n=141 type=7 steps=7601 score=52880 total=1051318 t=0.6s
+clear  n=142 type=7 steps=8157 score=53240 total=1059475 t=0.6s
+clear  n=143 type=7 steps=6868 score=53560 total=1066343 t=0.6s
+clear  n=144 type=7 steps=5313 score=53890 total=1071656 t=0.6s
+dot    n=145 bricks=3 score=54220 t=0.6s
+clear  n=145 type=7 steps=9423 score=54250 total=1081079 t=0.6s
+clear  n=146 type=7 steps=7685 score=54590 total=1088764 t=0.6s
+clear  n=147 type=7 steps=4212 score=54940 total=1092976 t=0.6s
+clear  n=148 type=7 steps=5059 score=55300 total=1098035 t=0.6s
+dot    n=149 bricks=1 score=55640 t=0.6s
+clear  n=149 type=7 steps=10022 score=55650 total=1108057 t=0.6s
+milestone n=150 t=0.6s
+clear  n=150 type=7 steps=5996 score=55990 total=1114053 t=0.6s
+clear  n=151 type=8 steps=15034 score=56690 total=1129087 t=0.6s
+dot    n=152 bricks=1 score=57380 t=0.6s
+clear  n=152 type=8 steps=9336 score=57390 total=1138423 t=0.6s
+clear  n=153 type=8 steps=10884 score=58090 total=1149307 t=0.6s
+clear  n=154 type=8 steps=11324 score=58790 total=1160631 t=0.6s
+dot    n=155 bricks=2 score=59430 t=0.6s
+clear  n=155 type=8 steps=6702 score=59490 total=1167333 t=0.6s
+clear  n=156 type=8 steps=12770 score=60190 total=1180103 t=0.7s
+clear  n=157 type=8 steps=11525 score=60890 total=1191628 t=0.7s
+dot    n=158 bricks=9 score=61420 t=0.7s
+clear  n=158 type=8 steps=10382 score=61590 total=1202010 t=0.7s
+clear  n=159 type=8 steps=24583 score=62290 total=1226593 t=0.7s
+dot    n=160 bricks=31 score=62420 t=0.7s
+clear  n=160 type=8 steps=10704 score=62990 total=1237297 t=0.7s
+clear  n=161 type=8 steps=8253 score=63690 total=1245550 t=0.7s
+dot    n=162 bricks=2 score=64290 t=0.7s
+clear  n=162 type=8 steps=13024 score=64390 total=1258574 t=0.7s
+dot    n=163 bricks=1 score=65040 t=0.7s
+clear  n=163 type=8 steps=31193 score=65090 total=1289767 t=0.7s
+clear  n=164 type=8 steps=13118 score=65790 total=1302885 t=0.7s
+clear  n=165 type=8 steps=8134 score=66490 total=1311019 t=0.7s
+dot    n=166 bricks=10 score=66920 t=0.7s
+clear  n=166 type=8 steps=16982 score=67230 total=1328001 t=0.7s
+clear  n=167 type=8 steps=10544 score=67970 total=1338545 t=0.7s
+clear  n=168 type=8 steps=41308 score=68710 total=1379853 t=0.8s
+dot    n=169 bricks=38 score=68810 t=0.8s
+clear  n=169 type=8 steps=8194 score=69450 total=1388047 t=0.8s
+clear  n=170 type=8 steps=7951 score=70190 total=1395998 t=0.8s
+clear  n=171 type=8 steps=10564 score=70930 total=1406562 t=0.8s
+dot    n=172 bricks=12 score=71290 t=0.8s
+clear  n=172 type=8 steps=15034 score=71670 total=1421596 t=0.8s
+clear  n=173 type=8 steps=8756 score=72410 total=1430352 t=0.8s
+clear  n=174 type=8 steps=6022 score=73150 total=1436374 t=0.8s
+milestone n=175 t=0.8s
+clear  n=175 type=8 steps=12563 score=73890 total=1448937 t=0.8s
+dot    n=176 bricks=38 score=73990 t=0.8s
+clear  n=176 type=8 steps=11233 score=74630 total=1460170 t=0.8s
+clear  n=177 type=8 steps=18715 score=75370 total=1478885 t=0.8s
+dot    n=178 bricks=38 score=75470 t=0.8s
+clear  n=178 type=8 steps=13523 score=76110 total=1492408 t=0.8s
+dot    n=179 bricks=1 score=76840 t=0.8s
+clear  n=179 type=8 steps=29253 score=76850 total=1521661 t=0.8s
+dot    n=180 bricks=1 score=77580 t=0.9s
+clear  n=180 type=8 steps=24202 score=77590 total=1545863 t=0.9s
+clear  n=181 type=8 steps=11321 score=78330 total=1557184 t=0.9s
+clear  n=182 type=8 steps=10398 score=79070 total=1567582 t=0.9s
+dot    n=183 bricks=29 score=79325 t=0.9s
+clear  n=183 type=8 steps=11023 score=79810 total=1578605 t=0.9s
+clear  n=184 type=8 steps=10936 score=80550 total=1589541 t=0.9s
+dot    n=185 bricks=1 score=81280 t=0.9s
+clear  n=185 type=8 steps=11733 score=81290 total=1601274 t=0.9s
+clear  n=186 type=8 steps=22352 score=82030 total=1623626 t=0.9s
+dot    n=187 bricks=12 score=82440 t=0.9s
+clear  n=187 type=8 steps=17367 score=82770 total=1640993 t=0.9s
+clear  n=188 type=8 steps=10341 score=83510 total=1651334 t=0.9s
+clear  n=189 type=8 steps=11307 score=84250 total=1662641 t=0.9s
+dot    n=190 bricks=38 score=84350 t=0.9s
+clear  n=190 type=8 steps=11143 score=84990 total=1673784 t=0.9s
+clear  n=191 type=8 steps=12401 score=85730 total=1686185 t=0.9s
+dot    n=192 bricks=13 score=86235 t=0.9s
+clear  n=192 type=8 steps=17675 score=86470 total=1703860 t=1.0s
+clear  n=193 type=8 steps=16748 score=87210 total=1720608 t=1.0s
+dot    n=194 bricks=23 score=87510 t=1.0s
+clear  n=194 type=8 steps=14213 score=87950 total=1734821 t=1.0s
+clear  n=195 type=8 steps=10179 score=88690 total=1745000 t=1.0s
+clear  n=196 type=8 steps=16446 score=89430 total=1761446 t=1.0s
+dot    n=197 bricks=38 score=89530 t=1.0s
+clear  n=197 type=8 steps=27803 score=90170 total=1789249 t=1.0s
+dot    n=198 bricks=19 score=90460 t=1.0s
+clear  n=198 type=8 steps=10650 score=90910 total=1799899 t=1.0s
+clear  n=199 type=8 steps=12604 score=91650 total=1812503 t=1.0s
+milestone n=200 t=1.0s
+dot    n=200 bricks=1 score=92315 t=1.0s
+clear  n=200 type=8 steps=16256 score=92390 total=1828759 t=1.0s
+clear  n=201 type=8 steps=11349 score=93130 total=1840108 t=1.0s
+clear  n=202 type=8 steps=10321 score=93870 total=1850429 t=1.0s
+clear  n=203 type=8 steps=18600 score=94610 total=1869029 t=1.0s
+dot    n=204 bricks=38 score=94710 t=1.0s
+clear  n=204 type=8 steps=17398 score=95350 total=1886427 t=1.1s
+dot    n=205 bricks=2 score=96030 t=1.1s
+clear  n=205 type=8 steps=26891 score=96090 total=1913318 t=1.1s
+clear  n=206 type=8 steps=10977 score=96830 total=1924295 t=1.1s
+dot    n=207 bricks=9 score=97310 t=1.1s
+clear  n=207 type=8 steps=14604 score=97570 total=1938899 t=1.1s
+dot    n=208 bricks=1 score=98260 t=1.1s
+clear  n=208 type=8 steps=41982 score=98310 total=1980881 t=1.1s
+dot    n=209 bricks=6 score=98885 t=1.1s
+clear  n=209 type=8 steps=13901 score=99050 total=1994782 t=1.1s
+clear  n=210 type=8 steps=17776 score=99790 total=2012558 t=1.1s
+dot    n=211 bricks=5 score=100335 t=1.1s
+clear  n=211 type=8 steps=8821 score=100530 total=2021379 t=1.1s
+clear  n=212 type=8 steps=10669 score=101270 total=2032048 t=1.1s
+clear  n=213 type=8 steps=13012 score=102010 total=2045060 t=1.1s
+dot    n=214 bricks=21 score=102395 t=1.1s
+clear  n=214 type=8 steps=9609 score=102750 total=2054669 t=1.1s
+clear  n=215 type=8 steps=10880 score=103490 total=2065549 t=1.2s
+dot    n=216 bricks=1 score=104220 t=1.2s
+clear  n=216 type=8 steps=14496 score=104230 total=2080045 t=1.2s
+clear  n=217 type=8 steps=10813 score=104970 total=2090858 t=1.2s
+clear  n=218 type=8 steps=7917 score=105710 total=2098775 t=1.2s
+clear  n=219 type=8 steps=9929 score=106450 total=2108704 t=1.2s
+dot    n=220 bricks=36 score=106570 t=1.2s
+clear  n=220 type=8 steps=10719 score=107190 total=2119423 t=1.2s
+clear  n=221 type=8 steps=11672 score=107930 total=2131095 t=1.2s
+dot    n=222 bricks=2 score=108650 t=1.2s
+clear  n=222 type=8 steps=10903 score=108670 total=2141998 t=1.2s
+clear  n=223 type=8 steps=12442 score=109410 total=2154440 t=1.2s
+clear  n=224 type=8 steps=10554 score=110150 total=2164994 t=1.2s
+milestone n=225 t=1.2s
+dot    n=225 bricks=7 score=110560 t=1.2s
+clear  n=225 type=8 steps=19411 score=110890 total=2184405 t=1.2s
+clear  n=226 type=8 steps=11732 score=111630 total=2196137 t=1.2s
+dot    n=227 bricks=19 score=112010 t=1.2s
+clear  n=227 type=8 steps=11623 score=112370 total=2207760 t=1.2s
+clear  n=228 type=8 steps=13376 score=113100 total=2221136 t=1.2s
+dot    n=229 bricks=1 score=113820 t=1.2s
+clear  n=229 type=8 steps=9445 score=113830 total=2230581 t=1.2s
+clear  n=230 type=8 steps=14020 score=114560 total=2244601 t=1.3s
+clear  n=231 type=8 steps=8569 score=115290 total=2253170 t=1.3s
+dot    n=232 bricks=7 score=115885 t=1.3s
+clear  n=232 type=8 steps=16250 score=116020 total=2269420 t=1.3s
+clear  n=233 type=8 steps=10916 score=116750 total=2280336 t=1.3s
+dot    n=234 bricks=2 score=117355 t=1.3s
+clear  n=234 type=8 steps=13052 score=117480 total=2293388 t=1.3s
+clear  n=235 type=8 steps=11094 score=118210 total=2304482 t=1.3s
+clear  n=236 type=8 steps=8521 score=118940 total=2313003 t=1.3s
+dot    n=237 bricks=10 score=119400 t=1.3s
+clear  n=237 type=8 steps=31835 score=119670 total=2344838 t=1.3s
+clear  n=238 type=8 steps=11008 score=120400 total=2355846 t=1.3s
+dot    n=239 bricks=37 score=120500 t=1.3s
+clear  n=239 type=8 steps=11395 score=121130 total=2367241 t=1.3s
+dot    n=240 bricks=3 score=121750 t=1.3s
+clear  n=240 type=8 steps=20932 score=121860 total=2388173 t=1.3s
+clear  n=241 type=8 steps=12581 score=122590 total=2400754 t=1.3s
+dot    n=242 bricks=2 score=123300 t=1.3s
+clear  n=242 type=8 steps=16783 score=123320 total=2417537 t=1.4s
+clear  n=243 type=8 steps=9551 score=124050 total=2427088 t=1.4s
+clear  n=244 type=8 steps=9465 score=124780 total=2436553 t=1.4s
+clear  n=245 type=8 steps=9551 score=125510 total=2446104 t=1.4s
+dot    n=246 bricks=37 score=125610 t=1.4s
+clear  n=246 type=8 steps=10691 score=126240 total=2456795 t=1.4s
+clear  n=247 type=8 steps=9848 score=126970 total=2466643 t=1.4s
+dot    n=248 bricks=5 score=127545 t=1.4s
+clear  n=248 type=8 steps=16156 score=127700 total=2482799 t=1.4s
+clear  n=249 type=8 steps=11072 score=128430 total=2493871 t=1.4s
+milestone n=250 t=1.4s
+dot    n=250 bricks=6 score=129105 t=1.4s
+clear  n=250 type=8 steps=15346 score=129230 total=2509217 t=1.4s
+clear  n=251 type=8 steps=15618 score=130030 total=2524835 t=1.4s
+clear  n=252 type=8 steps=18270 score=130830 total=2543105 t=1.4s
+dot    n=253 bricks=44 score=130930 t=1.4s
+clear  n=253 type=8 steps=19427 score=131630 total=2562532 t=1.4s
+dot    n=254 bricks=9 score=132300 t=1.4s
+clear  n=254 type=8 steps=13839 score=132430 total=2576371 t=1.4s
+clear  n=255 type=8 steps=14103 score=133230 total=2590474 t=1.5s
+clear  n=256 type=8 steps=8553 score=134030 total=2599027 t=1.5s
+dot    n=257 bricks=16 score=134565 t=1.5s
+clear  n=257 type=8 steps=19791 score=134830 total=2618818 t=1.5s
+clear  n=258 type=8 steps=9808 score=135630 total=2628626 t=1.5s
+clear  n=259 type=8 steps=14799 score=136430 total=2643425 t=1.5s
+dot    n=260 bricks=44 score=136530 t=1.5s
+clear  n=260 type=8 steps=15392 score=137230 total=2658817 t=1.5s
+clear  n=261 type=8 steps=11996 score=138030 total=2670813 t=1.5s
+dot    n=262 bricks=23 score=138340 t=1.5s
+clear  n=262 type=8 steps=13111 score=138830 total=2683924 t=1.5s
+clear  n=263 type=8 steps=13021 score=139630 total=2696945 t=1.5s
+dot    n=264 bricks=10 score=140135 t=1.5s
+clear  n=264 type=8 steps=17259 score=140430 total=2714204 t=1.5s
+clear  n=265 type=8 steps=9355 score=141230 total=2723559 t=1.5s
+clear  n=266 type=8 steps=9791 score=142030 total=2733350 t=1.5s
+dot    n=267 bricks=43 score=142140 t=1.5s
+clear  n=267 type=8 steps=16072 score=142830 total=2749422 t=1.6s
+clear  n=268 type=8 steps=8181 score=143630 total=2757603 t=1.6s
+dot    n=269 bricks=9 score=144275 t=1.6s
+clear  n=269 type=8 steps=10358 score=144430 total=2767961 t=1.6s
+clear  n=270 type=8 steps=18423 score=145230 total=2786384 t=1.6s
+dot    n=271 bricks=1 score=146020 t=1.6s
+clear  n=271 type=8 steps=10757 score=146030 total=2797141 t=1.6s
+clear  n=272 type=8 steps=12093 score=146830 total=2809234 t=1.6s
+clear  n=273 type=8 steps=22378 score=147630 total=2831612 t=1.6s
+dot    n=274 bricks=44 score=147730 t=1.6s
+clear  n=274 type=8 steps=19988 score=148430 total=2851600 t=1.6s
+milestone n=275 t=1.6s
+clear  n=275 type=8 steps=8161 score=149230 total=2859761 t=1.6s
+dot    n=276 bricks=31 score=149460 t=1.6s
+clear  n=276 type=8 steps=10990 score=150030 total=2870751 t=1.6s
+clear  n=277 type=8 steps=18442 score=150830 total=2889193 t=1.6s
+dot    n=278 bricks=19 score=151180 t=1.6s
+clear  n=278 type=8 steps=9918 score=151630 total=2899111 t=1.7s
+clear  n=279 type=8 steps=13342 score=152430 total=2912453 t=1.7s
+clear  n=280 type=8 steps=14726 score=153230 total=2927179 t=1.7s
+dot    n=281 bricks=44 score=153330 t=1.7s
+clear  n=281 type=8 steps=11546 score=154030 total=2938725 t=1.7s
+clear  n=282 type=8 steps=14490 score=154830 total=2953215 t=1.7s
+dot    n=283 bricks=17 score=155225 t=1.7s
+clear  n=283 type=8 steps=9580 score=155630 total=2962795 t=1.7s
+clear  n=284 type=8 steps=11321 score=156430 total=2974116 t=1.7s
+dot    n=285 bricks=1 score=157180 t=1.7s
+clear  n=285 type=8 steps=14642 score=157230 total=2988758 t=1.7s
+clear  n=286 type=8 steps=15294 score=158030 total=3004052 t=1.7s
+clear  n=287 type=8 steps=14926 score=158830 total=3018978 t=1.7s
+dot    n=288 bricks=44 score=158930 t=1.7s
+clear  n=288 type=8 steps=10826 score=159630 total=3029804 t=1.7s
+clear  n=289 type=8 steps=16662 score=160430 total=3046466 t=1.7s
+dot    n=290 bricks=35 score=160620 t=1.8s
+clear  n=290 type=8 steps=17556 score=161230 total=3064022 t=1.8s
+clear  n=291 type=8 steps=12028 score=162030 total=3076050 t=1.8s
+dot    n=292 bricks=24 score=162420 t=1.8s
+clear  n=292 type=8 steps=11828 score=162830 total=3087878 t=1.8s
+clear  n=293 type=8 steps=13088 score=163630 total=3100966 t=1.8s
+clear  n=294 type=8 steps=17347 score=164430 total=3118313 t=1.8s
+dot    n=295 bricks=44 score=164530 t=1.8s
+clear  n=295 type=8 steps=16190 score=165230 total=3134503 t=1.8s
+clear  n=296 type=8 steps=10260 score=166030 total=3144763 t=1.8s
+dot    n=297 bricks=12 score=166450 t=1.8s
+clear  n=297 type=8 steps=11784 score=166830 total=3156547 t=1.8s
+clear  n=298 type=8 steps=11092 score=167630 total=3167639 t=1.8s
+clear  n=299 type=8 steps=8906 score=168430 total=3176545 t=1.8s
+milestone n=300 t=1.8s
+dot    n=300 bricks=27 score=168700 t=1.8s
+clear  n=300 type=8 steps=9257 score=169230 total=3185802 t=1.8s
+clear  n=301 type=9 steps=10354 score=169680 total=3196156 t=1.8s
+clear  n=302 type=9 steps=5833 score=170040 total=3201989 t=1.8s
+clear  n=303 type=9 steps=6059 score=170440 total=3208048 t=1.9s
+dot    n=304 bricks=30 score=170580 t=1.9s
+clear  n=304 type=3 steps=9679 score=170880 total=3217727 t=1.9s
+clear  n=305 type=8 steps=12121 score=171680 total=3229848 t=1.9s
+dot    n=306 bricks=2 score=172050 t=1.9s
+clear  n=306 type=9 steps=9398 score=172070 total=3239246 t=1.9s
+clear  n=307 type=8 steps=20032 score=172870 total=3259278 t=1.9s
+clear  n=308 type=9 steps=22541 score=173300 total=3281819 t=1.9s
+dot    n=309 bricks=29 score=173400 t=1.9s
+clear  n=309 type=9 steps=18509 score=173690 total=3300328 t=1.9s
+clear  n=310 type=9 steps=8726 score=174080 total=3309054 t=1.9s
+dot    n=311 bricks=15 score=174340 t=1.9s
+clear  n=311 type=9 steps=7842 score=174490 total=3316896 t=1.9s
+clear  n=312 type=9 steps=16432 score=174920 total=3333328 t=1.9s
+clear  n=313 type=8 steps=8555 score=175720 total=3341883 t=1.9s
+dot    n=314 bricks=26 score=175820 t=1.9s
+clear  n=314 type=4 steps=4645 score=176080 total=3346528 t=1.9s
+clear  n=315 type=9 steps=6512 score=176470 total=3353040 t=1.9s
+clear  n=316 type=4 steps=12565 score=176830 total=3365605 t=1.9s
+dot    n=317 bricks=2 score=177230 t=2.0s
+clear  n=317 type=9 steps=7105 score=177250 total=3372710 t=2.0s
+clear  n=318 type=9 steps=11658 score=177640 total=3384368 t=2.0s
+dot    n=319 bricks=3 score=178410 t=2.0s
+clear  n=319 type=8 steps=19916 score=178440 total=3404284 t=2.0s
+clear  n=320 type=9 steps=9081 score=178840 total=3413365 t=2.0s
+clear  n=321 type=4 steps=5588 score=179200 total=3418953 t=2.0s
+clear  n=322 type=6 steps=12790 score=179730 total=3431743 t=2.0s
+dot    n=323 bricks=28 score=179850 t=2.0s
+clear  n=323 type=9 steps=6754 score=180130 total=3438497 t=2.0s
+clear  n=324 type=9 steps=7533 score=180530 total=3446030 t=2.0s
+milestone n=325 t=2.0s
+clear  n=325 type=9 steps=8634 score=180970 total=3454664 t=2.0s
+dot    n=326 bricks=2 score=181750 t=2.0s
+clear  n=326 type=8 steps=7619 score=181770 total=3462283 t=2.0s
+clear  n=327 type=4 steps=3588 score=182130 total=3465871 t=2.0s
+clear  n=328 type=9 steps=19215 score=182530 total=3485086 t=2.0s
+clear  n=329 type=9 steps=2565 score=182930 total=3487651 t=2.0s
+dot    n=330 bricks=16 score=183375 t=2.0s
+clear  n=330 type=8 steps=15497 score=183730 total=3503148 t=2.0s
+clear  n=331 type=5 steps=2963 score=184050 total=3506111 t=2.0s
+clear  n=332 type=9 steps=10466 score=184580 total=3516577 t=2.0s
+dot    n=333 bricks=6 score=185030 t=2.0s
+clear  n=333 type=9 steps=12832 score=185090 total=3529409 t=2.0s
+clear  n=334 type=1 steps=12404 score=185670 total=3541813 t=2.1s
+dot    n=335 bricks=6 score=186160 t=2.1s
+clear  n=335 type=9 steps=14447 score=186220 total=3556260 t=2.1s
+clear  n=336 type=5 steps=3330 score=186560 total=3559590 t=2.1s
+dot    n=337 bricks=1 score=187100 t=2.1s
+clear  n=337 type=9 steps=23814 score=187110 total=3583404 t=2.1s
+clear  n=338 type=2 steps=10243 score=187400 total=3593647 t=2.1s
+clear  n=339 type=9 steps=7107 score=187930 total=3600754 t=2.1s
+clear  n=340 type=9 steps=10818 score=188450 total=3611572 t=2.1s
+dot    n=341 bricks=35 score=188620 t=2.1s
+clear  n=341 type=9 steps=10537 score=188970 total=3622109 t=2.1s
+clear  n=342 type=9 steps=14784 score=189520 total=3636893 t=2.1s
+clear  n=343 type=9 steps=12013 score=190040 total=3648906 t=2.1s
+dot    n=344 bricks=30 score=190140 t=2.1s
+clear  n=344 type=4 steps=6893 score=190440 total=3655799 t=2.1s
+clear  n=345 type=9 steps=10466 score=190990 total=3666265 t=2.1s
+clear  n=346 type=9 steps=8557 score=191510 total=3674822 t=2.1s
+dot    n=347 bricks=17 score=191850 t=2.1s
+clear  n=347 type=9 steps=10800 score=192020 total=3685622 t=2.2s
+clear  n=348 type=2 steps=6019 score=192310 total=3691641 t=2.2s
+clear  n=349 type=9 steps=8311 score=192860 total=3699952 t=2.2s
+milestone n=350 t=2.2s
+clear  n=350 type=6 steps=11589 score=193440 total=3711541 t=2.2s
+dot    n=351 bricks=30 score=193540 t=2.2s
+clear  n=351 type=4 steps=5562 score=193840 total=3717103 t=2.2s
+clear  n=352 type=9 steps=20467 score=194360 total=3737570 t=2.2s
+dot    n=353 bricks=5 score=194710 t=2.2s
+clear  n=353 type=4 steps=7569 score=194760 total=3745139 t=2.2s
+clear  n=354 type=9 steps=9033 score=195300 total=3754172 t=2.2s
+clear  n=355 type=9 steps=12641 score=195830 total=3766813 t=2.2s
+dot    n=356 bricks=19 score=196285 t=2.2s
+clear  n=356 type=8 steps=15818 score=196670 total=3782631 t=2.2s
+clear  n=357 type=3 steps=8437 score=197100 total=3791068 t=2.2s
+clear  n=358 type=1 steps=9029 score=197680 total=3800097 t=2.2s
+dot    n=359 bricks=33 score=197870 t=2.2s
+clear  n=359 type=9 steps=10830 score=198200 total=3810927 t=2.2s
+clear  n=360 type=1 steps=15663 score=198780 total=3826590 t=2.3s
+dot    n=361 bricks=7 score=199250 t=2.3s
+clear  n=361 type=9 steps=7541 score=199320 total=3834131 t=2.3s
+clear  n=362 type=9 steps=8948 score=199860 total=3843079 t=2.3s
+clear  n=363 type=2 steps=6925 score=200150 total=3850004 t=2.3s
+clear  n=364 type=9 steps=13507 score=200650 total=3863511 t=2.3s
+dot    n=365 bricks=44 score=200750 t=2.3s
+dot    n=365 bricks=1 score=201180 t=2.3s
+clear  n=365 type=9 steps=38488 score=201190 total=3901999 t=2.3s
+dot    n=366 bricks=1 score=201760 t=2.3s
+clear  n=366 type=6 steps=23644 score=201770 total=3925643 t=2.3s
+clear  n=367 type=5 steps=3126 score=202110 total=3928769 t=2.3s
+clear  n=368 type=9 steps=16763 score=202630 total=3945532 t=2.3s
+dot    n=369 bricks=3 score=203440 t=2.3s
+clear  n=369 type=8 steps=15468 score=203470 total=3961000 t=2.3s
+clear  n=370 type=9 steps=18648 score=203980 total=3979648 t=2.3s
+clear  n=371 type=9 steps=12899 score=204520 total=3992547 t=2.4s
+dot    n=372 bricks=42 score=204620 t=2.4s
+dot    n=372 bricks=2 score=205020 t=2.4s
+clear  n=372 type=9 steps=36808 score=205040 total=4029355 t=2.4s
+clear  n=373 type=9 steps=6910 score=205560 total=4036265 t=2.4s
+clear  n=374 type=9 steps=9697 score=206100 total=4045962 t=2.4s
+milestone n=375 t=2.4s
+dot    n=375 bricks=4 score=206590 t=2.4s
+clear  n=375 type=9 steps=16107 score=206630 total=4062069 t=2.4s
+clear  n=376 type=1 steps=9518 score=207200 total=4071587 t=2.4s
+dot    n=377 bricks=1 score=207760 t=2.4s
+clear  n=377 type=1 steps=17801 score=207770 total=4089388 t=2.4s
+clear  n=378 type=2 steps=10708 score=208060 total=4100096 t=2.4s
+clear  n=379 type=9 steps=9960 score=208580 total=4110056 t=2.4s
+dot    n=380 bricks=31 score=208800 t=2.4s
+clear  n=380 type=9 steps=12216 score=209110 total=4122272 t=2.4s
+clear  n=381 type=4 steps=4757 score=209510 total=4127029 t=2.4s
+clear  n=382 type=9 steps=9993 score=210050 total=4137022 t=2.4s
+dot    n=383 bricks=11 score=210460 t=2.5s
+clear  n=383 type=9 steps=17564 score=210570 total=4154586 t=2.5s
+clear  n=384 type=8 steps=12245 score=211410 total=4166831 t=2.5s
+clear  n=385 type=9 steps=12622 score=211950 total=4179453 t=2.5s
+dot    n=386 bricks=41 score=212050 t=2.5s
+clear  n=386 type=9 steps=14969 score=212460 total=4194422 t=2.5s
+dot    n=387 bricks=1 score=212990 t=2.5s
+clear  n=387 type=9 steps=22973 score=213000 total=4217395 t=2.5s
+clear  n=388 type=9 steps=8505 score=213510 total=4225900 t=2.5s
+clear  n=389 type=9 steps=6502 score=214050 total=4232402 t=2.5s
+dot    n=390 bricks=13 score=214490 t=2.5s
+clear  n=390 type=1 steps=12400 score=214620 total=4244802 t=2.5s
+clear  n=391 type=9 steps=15871 score=215150 total=4260673 t=2.5s
+clear  n=392 type=6 steps=10835 score=215720 total=4271508 t=2.5s
+dot    n=393 bricks=44 score=215820 t=2.5s
+clear  n=393 type=9 steps=10869 score=216260 total=4282377 t=2.5s
+clear  n=394 type=9 steps=7466 score=216780 total=4289843 t=2.5s
+clear  n=395 type=9 steps=10322 score=217300 total=4300165 t=2.6s
+dot    n=396 bricks=31 score=217560 t=2.6s
+clear  n=396 type=1 steps=20627 score=217870 total=4320792 t=2.6s
+clear  n=397 type=6 steps=9160 score=218440 total=4329952 t=2.6s
+dot    n=398 bricks=26 score=218690 t=2.6s
+clear  n=398 type=9 steps=12612 score=218950 total=4342564 t=2.6s
+clear  n=399 type=9 steps=19881 score=219490 total=4362445 t=2.6s
+milestone n=400 t=2.6s
+dot    n=400 bricks=43 score=219590 t=2.6s
+clear  n=400 type=9 steps=17819 score=220020 total=4380264 t=2.6s
+dot    n=401 bricks=3 score=220500 t=2.6s
+clear  n=401 type=9 steps=30378 score=220530 total=4410642 t=2.6s
+clear  n=402 type=5 steps=4669 score=220870 total=4415311 t=2.6s
+dot    n=403 bricks=13 score=221270 t=2.6s
+clear  n=403 type=9 steps=18891 score=221400 total=4434202 t=2.7s
+clear  n=404 type=6 steps=12452 score=221970 total=4446654 t=2.7s
+dot    n=405 bricks=4 score=222220 t=2.7s
+clear  n=405 type=2 steps=11752 score=222260 total=4458406 t=2.7s
+clear  n=406 type=3 steps=14719 score=222690 total=4473125 t=2.7s
+dot    n=407 bricks=1 score=223210 t=2.7s
+clear  n=407 type=9 steps=9417 score=223220 total=4482542 t=2.7s
+clear  n=408 type=9 steps=8596 score=223750 total=4491138 t=2.7s
+clear  n=409 type=9 steps=16839 score=224300 total=4507977 t=2.7s
+dot    n=410 bricks=7 score=224760 t=2.7s
+clear  n=410 type=9 steps=22057 score=224830 total=4530034 t=2.7s
+dot    n=411 bricks=1 score=225350 t=2.8s
+dot    n=411 bricks=1 score=225350 t=2.8s
+clear  n=411 type=9 steps=44809 score=225360 total=4574843 t=2.8s
+clear  n=412 type=2 steps=11174 score=225650 total=4586017 t=2.8s
+clear  n=413 type=9 steps=10702 score=226190 total=4596719 t=2.8s
+dot    n=414 bricks=8 score=226640 t=2.8s
+clear  n=414 type=9 steps=21873 score=226720 total=4618592 t=2.8s
+clear  n=415 type=3 steps=10070 score=227150 total=4628662 t=2.8s
+dot    n=416 bricks=13 score=227550 t=2.8s
+clear  n=416 type=9 steps=7919 score=227680 total=4636581 t=2.9s
+clear  n=417 type=9 steps=12119 score=228180 total=4648700 t=2.9s
+clear  n=418 type=9 steps=9618 score=228690 total=4658318 t=2.9s
+dot    n=419 bricks=10 score=229160 t=2.9s
+clear  n=419 type=6 steps=16639 score=229260 total=4674957 t=2.9s
+clear  n=420 type=9 steps=13884 score=229790 total=4688841 t=2.9s
+dot    n=421 bricks=12 score=230190 t=2.9s
+clear  n=421 type=9 steps=15009 score=230310 total=4703850 t=2.9s
+clear  n=422 type=9 steps=10074 score=230830 total=4713924 t=2.9s
+dot    n=423 bricks=2 score=231320 t=2.9s
+clear  n=423 type=9 steps=11763 score=231340 total=4725687 t=2.9s
+dot    n=424 bricks=2 score=231820 t=3.0s
+clear  n=424 type=9 steps=31422 score=231840 total=4757109 t=3.0s
+milestone n=425 t=3.0s
+clear  n=425 type=3 steps=8602 score=232270 total=4765711 t=3.0s
+clear  n=426 type=9 steps=14718 score=232790 total=4780429 t=3.0s
+clear  n=427 type=8 steps=19946 score=233630 total=4800375 t=3.0s
+dot    n=428 bricks=19 score=233730 t=3.0s
+clear  n=428 type=2 steps=13175 score=233920 total=4813550 t=3.0s
+clear  n=429 type=9 steps=13009 score=234430 total=4826559 t=3.0s
+dot    n=430 bricks=17 score=234790 t=3.0s
+clear  n=430 type=9 steps=15378 score=234960 total=4841937 t=3.1s
+clear  n=431 type=9 steps=6602 score=235490 total=4848539 t=3.1s
+clear  n=432 type=9 steps=11574 score=236020 total=4860113 t=3.1s
+dot    n=433 bricks=44 score=236160 t=3.1s
+clear  n=433 type=8 steps=8080 score=236860 total=4868193 t=3.1s
+clear  n=434 type=9 steps=7724 score=237390 total=4875917 t=3.1s
+clear  n=435 type=9 steps=9396 score=237920 total=4885313 t=3.1s
+dot    n=436 bricks=8 score=238370 t=3.1s
+clear  n=436 type=9 steps=22886 score=238450 total=4908199 t=3.1s
+dot    n=437 bricks=1 score=239010 t=3.1s
+clear  n=437 type=6 steps=13591 score=239020 total=4921790 t=3.1s
+clear  n=438 type=9 steps=13290 score=239550 total=4935080 t=3.2s
+clear  n=439 type=9 steps=11544 score=240070 total=4946624 t=3.2s
+dot    n=440 bricks=6 score=240530 t=3.2s
+clear  n=440 type=9 steps=5217 score=240590 total=4951841 t=3.2s
+clear  n=441 type=9 steps=9093 score=241120 total=4960934 t=3.2s
+clear  n=442 type=9 steps=7656 score=241650 total=4968590 t=3.2s
+dot    n=443 bricks=1 score=242160 t=3.2s
+clear  n=443 type=9 steps=12476 score=242170 total=4981066 t=3.2s
+clear  n=444 type=3 steps=12690 score=242600 total=4993756 t=3.2s
+clear  n=445 type=9 steps=10475 score=243140 total=5004231 t=3.2s
+dot    n=446 bricks=7 score=243600 t=3.2s
+clear  n=446 type=9 steps=20036 score=243670 total=5024267 t=3.2s
+clear  n=447 type=6 steps=8235 score=244240 total=5032502 t=3.3s
+clear  n=448 type=9 steps=14359 score=244770 total=5046861 t=3.3s
+dot    n=449 bricks=43 score=244870 t=3.3s
+clear  n=449 type=9 steps=11134 score=245300 total=5057995 t=3.3s
+milestone n=450 t=3.3s
+clear  n=450 type=9 steps=8292 score=245820 total=5066287 t=3.3s
+dot    n=451 bricks=2 score=246370 t=3.3s
+clear  n=451 type=6 steps=22047 score=246390 total=5088334 t=3.3s
+clear  n=452 type=3 steps=7416 score=246820 total=5095750 t=3.3s
+dot    n=453 bricks=1 score=247320 t=3.3s
+clear  n=453 type=9 steps=20491 score=247330 total=5116241 t=3.3s
+clear  n=454 type=9 steps=15558 score=247850 total=5131799 t=3.3s
+clear  n=455 type=9 steps=13866 score=248360 total=5145665 t=3.4s
+dot    n=456 bricks=43 score=248460 t=3.4s
+clear  n=456 type=9 steps=14069 score=248890 total=5159734 t=3.4s
+clear  n=457 type=9 steps=13467 score=249410 total=5173201 t=3.4s
+dot    n=458 bricks=27 score=249660 t=3.4s
+clear  n=458 type=9 steps=12943 score=249930 total=5186144 t=3.4s
+clear  n=459 type=3 steps=7444 score=250360 total=5193588 t=3.4s
+clear  n=460 type=9 steps=6408 score=250890 total=5199996 t=3.4s
+dot    n=461 bricks=5 score=251130 t=3.4s
+clear  n=461 type=2 steps=22637 score=251180 total=5222633 t=3.4s
+clear  n=462 type=2 steps=4264 score=251470 total=5226897 t=3.4s
+dot    n=463 bricks=1 score=251890 t=3.4s
+clear  n=463 type=3 steps=13519 score=251900 total=5240416 t=3.5s
+clear  n=464 type=3 steps=7414 score=252330 total=5247830 t=3.5s
+clear  n=465 type=5 steps=5111 score=252670 total=5252941 t=3.5s
+clear  n=466 type=9 steps=9392 score=253200 total=5262333 t=3.5s
+dot    n=467 bricks=4 score=253550 t=3.5s
+clear  n=467 type=4 steps=9769 score=253590 total=5272102 t=3.5s
+clear  n=468 type=9 steps=21511 score=254120 total=5293613 t=3.5s
+clear  n=469 type=1 steps=10231 score=254690 total=5303844 t=3.5s
+dot    n=470 bricks=42 score=254790 t=3.5s
+clear  n=470 type=9 steps=15327 score=255210 total=5319171 t=3.5s
+clear  n=471 type=5 steps=2177 score=255550 total=5321348 t=3.5s
+clear  n=472 type=9 steps=7693 score=256080 total=5329041 t=3.5s
+dot    n=473 bricks=5 score=256570 t=3.5s
+clear  n=473 type=9 steps=8825 score=256620 total=5337866 t=3.6s
+clear  n=474 type=9 steps=15779 score=257140 total=5353645 t=3.6s
+milestone n=475 t=3.6s
+clear  n=475 type=9 steps=7273 score=257630 total=5360918 t=3.6s
+clear  n=476 type=4 steps=8057 score=258020 total=5368975 t=3.6s
+dot    n=477 bricks=47 score=258120 t=3.6s
+clear  n=477 type=6 steps=9607 score=258590 total=5378582 t=3.6s
+clear  n=478 type=3 steps=5821 score=259020 total=5384403 t=3.6s
+clear  n=479 type=9 steps=12086 score=259540 total=5396489 t=3.6s
+dot    n=480 bricks=19 score=259880 t=3.6s
+clear  n=480 type=9 steps=24745 score=260070 total=5421234 t=3.6s
+dot    n=481 bricks=2 score=260570 t=3.6s
+clear  n=481 type=9 steps=10259 score=260590 total=5431493 t=3.6s
+clear  n=482 type=6 steps=17456 score=261160 total=5448949 t=3.7s
+clear  n=483 type=9 steps=8015 score=261680 total=5456964 t=3.7s
+dot    n=484 bricks=1 score=262010 t=3.7s
+clear  n=484 type=5 steps=2319 score=262020 total=5459283 t=3.7s
+clear  n=485 type=8 steps=13983 score=262860 total=5473266 t=3.7s
+clear  n=486 type=9 steps=6599 score=263380 total=5479865 t=3.7s
+clear  n=487 type=9 steps=9030 score=263900 total=5488895 t=3.7s
+dot    n=488 bricks=39 score=264030 t=3.7s
+clear  n=488 type=9 steps=11896 score=264420 total=5500791 t=3.7s
+clear  n=489 type=2 steps=9677 score=264710 total=5510468 t=3.7s
+clear  n=490 type=9 steps=11397 score=265230 total=5521865 t=3.7s
+dot    n=491 bricks=24 score=265330 t=3.7s
+clear  n=491 type=5 steps=4433 score=265570 total=5526298 t=3.8s
+clear  n=492 type=2 steps=14172 score=265860 total=5540470 t=3.8s
+dot    n=493 bricks=3 score=266605 t=3.8s
+clear  n=493 type=8 steps=16492 score=266700 total=5556962 t=3.8s
+clear  n=494 type=3 steps=9295 score=267130 total=5566257 t=3.8s
+clear  n=495 type=9 steps=11438 score=267650 total=5577695 t=3.8s
+dot    n=496 bricks=14 score=268040 t=3.8s
+clear  n=496 type=9 steps=11083 score=268180 total=5588778 t=3.8s
+clear  n=497 type=9 steps=9187 score=268700 total=5597965 t=3.8s
+dot    n=498 bricks=1 score=269310 t=3.8s
+clear  n=498 type=6 steps=14350 score=269320 total=5612315 t=3.8s
+clear  n=499 type=9 steps=16614 score=269880 total=5628929 t=3.9s
+milestone n=500 t=3.9s
+clear  n=500 type=1 steps=6718 score=270580 total=5635647 t=3.9s
+dot    n=501 bricks=7 score=271130 t=3.9s
+clear  n=501 type=9 steps=19373 score=271200 total=5655020 t=3.9s
+dot    n=502 bricks=1 score=272160 t=3.9s
+clear  n=502 type=8 steps=24459 score=272170 total=5679479 t=3.9s
+clear  n=503 type=9 steps=15187 score=272810 total=5694666 t=3.9s
+clear  n=504 type=9 steps=11765 score=273430 total=5706431 t=4.0s
+dot    n=505 bricks=60 score=273530 t=4.0s
+clear  n=505 type=1 steps=20103 score=274130 total=5726534 t=4.0s
+dot    n=506 bricks=1 score=274730 t=4.0s
+clear  n=506 type=9 steps=11952 score=274740 total=5738486 t=4.0s
+clear  n=507 type=9 steps=7360 score=275360 total=5745846 t=4.0s
+clear  n=508 type=1 steps=15047 score=276060 total=5760893 t=4.0s
+dot    n=509 bricks=11 score=276570 t=4.0s
+clear  n=509 type=9 steps=22658 score=276680 total=5783551 t=4.1s
+clear  n=510 type=4 steps=5205 score=277160 total=5788756 t=4.1s
+clear  n=511 type=2 steps=13478 score=277510 total=5802234 t=4.1s
+dot    n=512 bricks=61 score=277610 t=4.1s
+clear  n=512 type=8 steps=10203 score=278480 total=5812437 t=4.1s
+clear  n=513 type=9 steps=10899 score=279080 total=5823336 t=4.1s
+dot    n=514 bricks=6 score=279650 t=4.1s
+clear  n=514 type=9 steps=23000 score=279710 total=5846336 t=4.1s
+dot    n=515 bricks=8 score=280470 t=4.2s
+clear  n=515 type=8 steps=31296 score=280680 total=5877632 t=4.2s
+clear  n=516 type=8 steps=13078 score=281650 total=5890710 t=4.2s
+dot    n=517 bricks=40 score=281890 t=4.2s
+clear  n=517 type=9 steps=10302 score=282290 total=5901012 t=4.2s
+clear  n=518 type=9 steps=8312 score=282930 total=5909324 t=4.2s
+clear  n=519 type=5 steps=4035 score=283380 total=5913359 t=4.2s
+dot    n=520 bricks=2 score=284010 t=4.2s
+clear  n=520 type=9 steps=11343 score=284030 total=5924702 t=4.2s
+clear  n=521 type=8 steps=17258 score=285000 total=5941960 t=4.3s
+dot    n=522 bricks=1 score=285630 t=4.3s
+clear  n=522 type=9 steps=10577 score=285640 total=5952537 t=4.3s
+clear  n=523 type=9 steps=13253 score=286260 total=5965790 t=4.3s
+clear  n=524 type=2 steps=9272 score=286600 total=5975062 t=4.3s
+milestone n=525 t=4.3s
+clear  n=525 type=9 steps=11219 score=287240 total=5986281 t=4.3s
+dot    n=526 bricks=54 score=287340 t=4.3s
+clear  n=526 type=9 steps=12628 score=287880 total=5998909 t=4.3s
+clear  n=527 type=9 steps=11761 score=288470 total=6010670 t=4.3s
+dot    n=528 bricks=18 score=288910 t=4.4s
+clear  n=528 type=9 steps=19878 score=289090 total=6030548 t=4.4s
+clear  n=529 type=9 steps=15323 score=289680 total=6045871 t=4.4s
+dot    n=530 bricks=31 score=289850 t=4.4s
+clear  n=530 type=4 steps=13240 score=290160 total=6059111 t=4.4s
+clear  n=531 type=9 steps=10843 score=290770 total=6069954 t=4.4s
+clear  n=532 type=8 steps=16705 score=291740 total=6086659 t=4.4s
+dot    n=533 bricks=60 score=291840 t=4.4s
+clear  n=533 type=6 steps=10517 score=292440 total=6097176 t=4.5s
+clear  n=534 type=2 steps=9346 score=292780 total=6106522 t=4.5s
+dot    n=535 bricks=2 score=293390 t=4.5s
+clear  n=535 type=9 steps=11113 score=293410 total=6117635 t=4.5s
+clear  n=536 type=8 steps=15791 score=294380 total=6133426 t=4.5s
+dot    n=537 bricks=2 score=294990 t=4.5s
+clear  n=537 type=9 steps=13531 score=295010 total=6146957 t=4.5s
+clear  n=538 type=4 steps=5341 score=295490 total=6152298 t=4.5s
+clear  n=539 type=4 steps=6353 score=295970 total=6158651 t=4.5s
+clear  n=540 type=9 steps=14234 score=296580 total=6172885 t=4.5s
+dot    n=541 bricks=26 score=297020 t=4.6s
+clear  n=541 type=6 steps=15219 score=297280 total=6188104 t=4.6s
+clear  n=542 type=9 steps=8961 score=297930 total=6197065 t=4.6s
+dot    n=543 bricks=5 score=298785 t=4.6s
+clear  n=543 type=8 steps=14841 score=298900 total=6211906 t=4.6s
+clear  n=544 type=1 steps=17662 score=299600 total=6229568 t=4.6s
+dot    n=545 bricks=3 score=300190 t=4.6s
+clear  n=545 type=9 steps=11430 score=300220 total=6240998 t=4.6s
+clear  n=546 type=9 steps=9136 score=300820 total=6250134 t=4.7s
+clear  n=547 type=4 steps=5240 score=301300 total=6255374 t=4.7s
+dot    n=548 bricks=1 score=301910 t=4.7s
+clear  n=548 type=9 steps=11782 score=301920 total=6267156 t=4.7s
+clear  n=549 type=9 steps=13684 score=302550 total=6280840 t=4.7s
+milestone n=550 t=4.7s
+clear  n=550 type=3 steps=14312 score=303140 total=6295152 t=4.7s
+dot    n=551 bricks=31 score=303450 t=4.7s
+clear  n=551 type=9 steps=21774 score=303760 total=6316926 t=4.7s
+clear  n=552 type=9 steps=7058 score=304380 total=6323984 t=4.7s
+clear  n=553 type=9 steps=10508 score=305020 total=6334492 t=4.8s
+dot    n=554 bricks=60 score=305120 t=4.8s
+clear  n=554 type=6 steps=18285 score=305720 total=6352777 t=4.8s
+dot    n=555 bricks=2 score=306320 t=4.8s
+clear  n=555 type=9 steps=18874 score=306340 total=6371651 t=4.8s
+clear  n=556 type=1 steps=19802 score=307040 total=6391453 t=4.8s
+dot    n=557 bricks=30 score=307450 t=4.8s
+clear  n=557 type=8 steps=29579 score=308010 total=6421032 t=4.9s
+dot    n=558 bricks=8 score=308270 t=4.9s
+clear  n=558 type=2 steps=6849 score=308350 total=6427881 t=4.9s
+clear  n=559 type=3 steps=13482 score=308940 total=6441363 t=4.9s
+clear  n=560 type=9 steps=10729 score=309560 total=6452092 t=4.9s
+dot    n=561 bricks=30 score=309850 t=4.9s
+clear  n=561 type=3 steps=11824 score=310150 total=6463916 t=4.9s
+clear  n=562 type=1 steps=11009 score=310850 total=6474925 t=4.9s
+dot    n=563 bricks=2 score=311530 t=4.9s
+clear  n=563 type=1 steps=29828 score=311550 total=6504753 t=5.0s
+dot    n=564 bricks=7 score=312120 t=5.0s
+clear  n=564 type=9 steps=12821 score=312190 total=6517574 t=5.0s
+clear  n=565 type=9 steps=9861 score=312800 total=6527435 t=5.0s
+dot    n=566 bricks=1 score=313440 t=5.0s
+clear  n=566 type=9 steps=17230 score=313450 total=6544665 t=5.0s
+clear  n=567 type=9 steps=17802 score=314070 total=6562467 t=5.0s
+clear  n=568 type=9 steps=7573 score=314660 total=6570040 t=5.0s
+dot    n=569 bricks=10 score=315170 t=5.1s
+clear  n=569 type=9 steps=7440 score=315270 total=6577480 t=5.1s
+clear  n=570 type=9 steps=9539 score=315880 total=6587019 t=5.1s
+clear  n=571 type=5 steps=4348 score=316320 total=6591367 t=5.1s
+dot    n=572 bricks=3 score=317140 t=5.1s
+clear  n=572 type=8 steps=14252 score=317290 total=6605619 t=5.1s
+clear  n=573 type=4 steps=3485 score=317770 total=6609104 t=5.1s
+clear  n=574 type=9 steps=17813 score=318380 total=6626917 t=5.1s
+milestone n=575 t=5.1s
+clear  n=575 type=4 steps=4309 score=318860 total=6631226 t=5.1s
+dot    n=576 bricks=15 score=319350 t=5.1s
+clear  n=576 type=9 steps=17530 score=319500 total=6648756 t=5.2s
+clear  n=577 type=9 steps=11875 score=320120 total=6660631 t=5.2s
+dot    n=578 bricks=5 score=320410 t=5.2s
+clear  n=578 type=2 steps=16939 score=320460 total=6677570 t=5.2s
+clear  n=579 type=9 steps=10976 score=321070 total=6688546 t=5.2s
+dot    n=580 bricks=6 score=321710 t=5.2s
+clear  n=580 type=6 steps=8556 score=321770 total=6697102 t=5.2s
+clear  n=581 type=9 steps=8760 score=322380 total=6705862 t=5.2s
+clear  n=582 type=9 steps=13539 score=323010 total=6719401 t=5.2s
+dot    n=583 bricks=7 score=323640 t=5.2s
+clear  n=583 type=1 steps=9591 score=323710 total=6728992 t=5.2s
+clear  n=584 type=4 steps=4520 score=324190 total=6733512 t=5.3s
+clear  n=585 type=5 steps=5960 score=324630 total=6739472 t=5.3s
+clear  n=586 type=1 steps=12884 score=325330 total=6752356 t=5.3s
+dot    n=587 bricks=20 score=325780 t=5.3s
+clear  n=587 type=9 steps=10430 score=325980 total=6762786 t=5.3s
+clear  n=588 type=1 steps=27118 score=326680 total=6789904 t=5.3s
+dot    n=589 bricks=50 score=326780 t=5.3s
+clear  n=589 type=9 steps=13440 score=327280 total=6803344 t=5.3s
+clear  n=590 type=9 steps=12269 score=327890 total=6815613 t=5.4s
+clear  n=591 type=5 steps=3609 score=328330 total=6819222 t=5.4s
+dot    n=592 bricks=45 score=328510 t=5.4s
+clear  n=592 type=9 steps=18362 score=328960 total=6837584 t=5.4s
+clear  n=593 type=2 steps=5055 score=329300 total=6842639 t=5.4s
+dot    n=594 bricks=3 score=329860 t=5.4s
+clear  n=594 type=3 steps=9177 score=329890 total=6851816 t=5.4s
+clear  n=595 type=6 steps=13897 score=330590 total=6865713 t=5.4s
+clear  n=596 type=8 steps=10210 score=331560 total=6875923 t=5.4s
+dot    n=597 bricks=13 score=332070 t=5.4s
+clear  n=597 type=9 steps=9307 score=332200 total=6885230 t=5.4s
+clear  n=598 type=3 steps=11509 score=332790 total=6896739 t=5.5s
+clear  n=599 type=9 steps=8359 score=333390 total=6905098 t=5.5s
+milestone n=600 t=5.5s
+dot    n=600 bricks=2 score=333850 t=5.5s
+clear  n=600 type=4 steps=6724 score=333870 total=6911822 t=5.5s
+clear  n=601 type=9 steps=9872 score=334510 total=6921694 t=5.5s
+clear  n=602 type=9 steps=13462 score=335150 total=6935156 t=5.5s
+dot    n=603 bricks=20 score=335650 t=5.5s
+clear  n=603 type=6 steps=11409 score=335850 total=6946565 t=5.5s
+clear  n=604 type=4 steps=7981 score=336330 total=6954546 t=5.5s
+clear  n=605 type=9 steps=13937 score=336950 total=6968483 t=5.5s
+dot    n=606 bricks=10 score=337290 t=5.5s
+clear  n=606 type=5 steps=6211 score=337390 total=6974694 t=5.6s
+clear  n=607 type=4 steps=5917 score=337870 total=6980611 t=5.6s
+clear  n=608 type=4 steps=6789 score=338350 total=6987400 t=5.6s
+clear  n=609 type=9 steps=9124 score=338950 total=6996524 t=5.6s
+dot    n=610 bricks=25 score=339290 t=5.6s
+clear  n=610 type=9 steps=15203 score=339540 total=7011727 t=5.6s
+clear  n=611 type=9 steps=16777 score=340180 total=7028504 t=5.6s
+dot    n=612 bricks=38 score=340500 t=5.6s
+clear  n=612 type=1 steps=20325 score=340880 total=7048829 t=5.6s
+clear  n=613 type=9 steps=8076 score=341510 total=7056905 t=5.7s
+dot    n=614 bricks=20 score=341930 t=5.7s
+clear  n=614 type=9 steps=12641 score=342130 total=7069546 t=5.7s
+clear  n=615 type=8 steps=11696 score=343100 total=7081242 t=5.7s
+clear  n=616 type=5 steps=7908 score=343540 total=7089150 t=5.7s
+dot    n=617 bricks=42 score=343710 t=5.7s
+clear  n=617 type=3 steps=15075 score=344130 total=7104225 t=5.7s
+clear  n=618 type=9 steps=9954 score=344740 total=7114179 t=5.7s
+dot    n=619 bricks=3 score=345330 t=5.7s
+clear  n=619 type=9 steps=11903 score=345360 total=7126082 t=5.7s
+dot    n=620 bricks=1 score=345960 t=5.8s
+clear  n=620 type=9 steps=25278 score=345970 total=7151360 t=5.8s
+clear  n=621 type=3 steps=28115 score=346560 total=7179475 t=5.8s
+dot    n=622 bricks=39 score=346740 t=5.8s
+clear  n=622 type=9 steps=11517 score=347130 total=7190992 t=5.8s
+clear  n=623 type=9 steps=5884 score=347750 total=7196876 t=5.8s
+clear  n=624 type=4 steps=4915 score=348230 total=7201791 t=5.8s
+milestone n=625 t=5.8s
+dot    n=625 bricks=2 score=348820 t=5.8s
+clear  n=625 type=9 steps=10445 score=348840 total=7212236 t=5.8s
+clear  n=626 type=3 steps=8833 score=349430 total=7221069 t=5.9s
+clear  n=627 type=9 steps=15045 score=350050 total=7236114 t=5.9s
+dot    n=628 bricks=8 score=350310 t=5.9s
+clear  n=628 type=2 steps=12518 score=350390 total=7248632 t=5.9s
+clear  n=629 type=6 steps=8341 score=351090 total=7256973 t=5.9s
+clear  n=630 type=1 steps=26706 score=351790 total=7283679 t=5.9s
+dot    n=631 bricks=51 score=351890 t=5.9s
+clear  n=631 type=9 steps=7620 score=352400 total=7291299 t=5.9s
+clear  n=632 type=2 steps=10088 score=352740 total=7301387 t=6.0s
+clear  n=633 type=1 steps=11827 score=353440 total=7313214 t=6.0s
+dot    n=634 bricks=45 score=353590 t=6.0s
+clear  n=634 type=9 steps=16002 score=354040 total=7329216 t=6.0s
+dot    n=635 bricks=3 score=354620 t=6.0s
+clear  n=635 type=9 steps=15749 score=354650 total=7344965 t=6.0s
+clear  n=636 type=9 steps=19471 score=355290 total=7364436 t=6.0s
+clear  n=637 type=9 steps=9275 score=355920 total=7373711 t=6.0s
+dot    n=638 bricks=51 score=356020 t=6.0s
+clear  n=638 type=9 steps=12605 score=356530 total=7386316 t=6.1s
+clear  n=639 type=9 steps=11432 score=357130 total=7397748 t=6.1s
+dot    n=640 bricks=1 score=357740 t=6.1s
+clear  n=640 type=9 steps=6059 score=357750 total=7403807 t=6.1s
+clear  n=641 type=2 steps=11083 score=358090 total=7414890 t=6.1s
+clear  n=642 type=8 steps=12863 score=359060 total=7427753 t=6.1s
+dot    n=643 bricks=18 score=359590 t=6.1s
+clear  n=643 type=8 steps=13862 score=360030 total=7441615 t=6.1s
+clear  n=644 type=9 steps=8216 score=360670 total=7449831 t=6.1s
+dot    n=645 bricks=1 score=361300 t=6.2s
+clear  n=645 type=9 steps=39820 score=361310 total=7489651 t=6.2s
+dot    n=646 bricks=2 score=361730 t=6.2s
+clear  n=646 type=5 steps=4787 score=361750 total=7494438 t=6.2s
+clear  n=647 type=2 steps=8833 score=362090 total=7503271 t=6.2s
+clear  n=648 type=9 steps=15518 score=362730 total=7518789 t=6.2s
+clear  n=649 type=2 steps=4806 score=363070 total=7523595 t=6.2s
+milestone n=650 t=6.2s
+dot    n=650 bricks=47 score=363190 t=6.2s
+clear  n=650 type=3 steps=10694 score=363660 total=7534289 t=6.2s
+clear  n=651 type=9 steps=9177 score=364280 total=7543466 t=6.3s
+clear  n=652 type=5 steps=6745 score=364720 total=7550211 t=6.3s
+dot    n=653 bricks=3 score=365130 t=6.3s
+clear  n=653 type=5 steps=4996 score=365160 total=7555207 t=6.3s
+clear  n=654 type=9 steps=12054 score=365790 total=7567261 t=6.3s
+clear  n=655 type=5 steps=5253 score=366230 total=7572514 t=6.3s
+dot    n=656 bricks=5 score=366880 t=6.3s
+clear  n=656 type=1 steps=19081 score=366930 total=7591595 t=6.3s
+clear  n=657 type=9 steps=18717 score=367530 total=7610312 t=6.3s
+clear  n=658 type=4 steps=9897 score=368010 total=7620209 t=6.3s
+dot    n=659 bricks=49 score=368110 t=6.3s
+clear  n=659 type=3 steps=10553 score=368600 total=7630762 t=6.4s
+clear  n=660 type=9 steps=11385 score=369230 total=7642147 t=6.4s
+clear  n=661 type=4 steps=3691 score=369710 total=7645838 t=6.4s
+dot    n=662 bricks=5 score=370260 t=6.4s
+clear  n=662 type=9 steps=11594 score=370310 total=7657432 t=6.4s
+clear  n=663 type=1 steps=12582 score=371010 total=7670014 t=6.4s
+clear  n=664 type=9 steps=7423 score=371580 total=7677437 t=6.4s
+clear  n=665 type=3 steps=13544 score=372170 total=7690981 t=6.4s
+dot    n=666 bricks=47 score=372270 t=6.4s
+clear  n=666 type=9 steps=9256 score=372740 total=7700237 t=6.5s
+dot    n=667 bricks=4 score=373680 t=6.5s
+dot    n=667 bricks=2 score=373740 t=6.5s
+clear  n=667 type=8 steps=58539 score=373760 total=7758776 t=6.5s
+clear  n=668 type=4 steps=7083 score=374340 total=7765859 t=6.5s
+clear  n=669 type=9 steps=5608 score=374940 total=7771467 t=6.5s
+clear  n=670 type=4 steps=4776 score=375520 total=7776243 t=6.5s
+dot    n=671 bricks=2 score=376070 t=6.6s
+clear  n=671 type=9 steps=7426 score=376090 total=7783669 t=6.6s
+clear  n=672 type=9 steps=9159 score=376630 total=7792828 t=6.6s
+clear  n=673 type=8 steps=14541 score=377650 total=7807369 t=6.6s
+dot    n=674 bricks=8 score=378170 t=6.6s
+clear  n=674 type=9 steps=20385 score=378250 total=7827754 t=6.6s
+milestone n=675 t=6.6s
+clear  n=675 type=9 steps=10061 score=378830 total=7837815 t=6.6s
+dot    n=676 bricks=35 score=379230 t=6.6s
+clear  n=676 type=6 steps=10035 score=379580 total=7847850 t=6.6s
+dot    n=677 bricks=5 score=380420 t=6.7s
+dot    n=677 bricks=4 score=380520 t=6.7s
+clear  n=677 type=8 steps=55048 score=380600 total=7902898 t=6.7s
+clear  n=678 type=9 steps=7283 score=381130 total=7910181 t=6.7s
+clear  n=679 type=9 steps=9099 score=381700 total=7919280 t=6.7s
+clear  n=680 type=9 steps=6182 score=382270 total=7925462 t=6.7s
+dot    n=681 bricks=1 score=382790 t=6.7s
+clear  n=681 type=9 steps=8204 score=382800 total=7933666 t=6.8s
+clear  n=682 type=1 steps=12162 score=383550 total=7945828 t=6.8s
+clear  n=683 type=9 steps=4183 score=384060 total=7950011 t=6.8s
+clear  n=684 type=4 steps=10805 score=384640 total=7960816 t=6.8s
+dot    n=685 bricks=43 score=384760 t=6.8s
+clear  n=685 type=9 steps=5681 score=385190 total=7966497 t=6.8s
+clear  n=686 type=9 steps=11983 score=385740 total=7978480 t=6.8s
+clear  n=687 type=9 steps=6705 score=386310 total=7985185 t=6.8s
+clear  n=688 type=5 steps=5831 score=386780 total=7991016 t=6.8s
+dot    n=689 bricks=48 score=386880 t=6.8s
+clear  n=689 type=4 steps=9443 score=387360 total=8000459 t=6.8s
+clear  n=690 type=4 steps=4526 score=387940 total=8004985 t=6.8s
+dot    n=691 bricks=2 score=388900 t=6.9s
+clear  n=691 type=8 steps=16829 score=388960 total=8021814 t=6.9s
+clear  n=692 type=9 steps=4212 score=389510 total=8026026 t=6.9s
+clear  n=693 type=9 steps=19931 score=390050 total=8045957 t=6.9s
+dot    n=694 bricks=3 score=390580 t=6.9s
+clear  n=694 type=9 steps=10483 score=390610 total=8056440 t=6.9s
+clear  n=695 type=3 steps=6557 score=391200 total=8062997 t=6.9s
+clear  n=696 type=9 steps=8897 score=391770 total=8071894 t=6.9s
+clear  n=697 type=2 steps=7922 score=392110 total=8079816 t=6.9s
+dot    n=698 bricks=21 score=392370 t=6.9s
+clear  n=698 type=5 steps=2829 score=392580 total=8082645 t=6.9s
+clear  n=699 type=6 steps=19342 score=393330 total=8101987 t=7.0s
+milestone n=700 t=7.0s
+clear  n=700 type=4 steps=5665 score=393910 total=8107652 t=7.0s
+dot    n=701 bricks=21 score=394290 t=7.0s
+clear  n=701 type=3 steps=14865 score=394500 total=8122517 t=7.0s
+clear  n=702 type=9 steps=11197 score=395070 total=8133714 t=7.0s
+dot    n=703 bricks=1 score=395650 t=7.0s
+clear  n=703 type=3 steps=9672 score=395660 total=8143386 t=7.0s
+clear  n=704 type=9 steps=9378 score=396230 total=8152764 t=7.0s
+clear  n=705 type=2 steps=7333 score=396570 total=8160097 t=7.0s
+dot    n=706 bricks=1 score=397090 t=7.1s
+clear  n=706 type=9 steps=11006 score=397100 total=8171103 t=7.1s
+clear  n=707 type=5 steps=2396 score=397570 total=8173499 t=7.1s
+clear  n=708 type=9 steps=9127 score=398130 total=8182626 t=7.1s
+clear  n=709 type=9 steps=5695 score=398670 total=8188321 t=7.1s
+dot    n=710 bricks=1 score=399210 t=7.1s
+clear  n=710 type=9 steps=13311 score=399220 total=8201632 t=7.1s
+clear  n=711 type=2 steps=12113 score=399560 total=8213745 t=7.1s
+dot    n=712 bricks=1 score=400300 t=7.1s
+clear  n=712 type=1 steps=19343 score=400310 total=8233088 t=7.1s
+clear  n=713 type=9 steps=10237 score=400850 total=8243325 t=7.1s
+clear  n=714 type=5 steps=4446 score=401320 total=8247771 t=7.2s
+clear  n=715 type=9 steps=11065 score=401880 total=8258836 t=7.2s
+dot    n=716 bricks=15 score=402300 t=7.2s
+clear  n=716 type=9 steps=8591 score=402450 total=8267427 t=7.2s
+clear  n=717 type=2 steps=9877 score=402790 total=8277304 t=7.2s
+clear  n=718 type=1 steps=9385 score=403540 total=8286689 t=7.2s
+dot    n=719 bricks=3 score=404090 t=7.2s
+clear  n=719 type=4 steps=5466 score=404120 total=8292155 t=7.2s
+clear  n=720 type=1 steps=17364 score=404870 total=8309519 t=7.2s
+clear  n=721 type=9 steps=6041 score=405420 total=8315560 t=7.2s
+dot    n=722 bricks=4 score=405950 t=7.3s
+clear  n=722 type=9 steps=7166 score=405990 total=8322726 t=7.3s
+clear  n=723 type=9 steps=7148 score=406560 total=8329874 t=7.3s
+dot    n=724 bricks=2 score=407560 t=7.3s
+clear  n=724 type=8 steps=27988 score=407580 total=8357862 t=7.3s
+milestone n=725 t=7.3s
+clear  n=725 type=4 steps=8376 score=408160 total=8366238 t=7.3s
+clear  n=726 type=9 steps=5866 score=408680 total=8372104 t=7.3s
+dot    n=727 bricks=1 score=409210 t=7.3s
+clear  n=727 type=9 steps=11307 score=409220 total=8383411 t=7.3s
+clear  n=728 type=8 steps=16711 score=410240 total=8400122 t=7.4s
+dot    n=729 bricks=4 score=411220 t=7.4s
+clear  n=729 type=8 steps=18979 score=411260 total=8419101 t=7.4s
+clear  n=730 type=9 steps=5739 score=411810 total=8424840 t=7.4s
+clear  n=731 type=9 steps=4791 score=412340 total=8429631 t=7.4s
+clear  n=732 type=9 steps=8078 score=412930 total=8437709 t=7.4s
+dot    n=733 bricks=6 score=413470 t=7.4s
+clear  n=733 type=9 steps=6661 score=413530 total=8444370 t=7.4s
+clear  n=734 type=9 steps=4075 score=414040 total=8448445 t=7.4s
+clear  n=735 type=3 steps=13034 score=414630 total=8461479 t=7.4s
+dot    n=736 bricks=2 score=415210 t=7.5s
+clear  n=736 type=9 steps=11483 score=415230 total=8472962 t=7.5s
+clear  n=737 type=3 steps=13370 score=415820 total=8486332 t=7.5s
+clear  n=738 type=9 steps=8441 score=416400 total=8494773 t=7.5s
+dot    n=739 bricks=1 score=416950 t=7.5s
+clear  n=739 type=9 steps=7371 score=416960 total=8502144 t=7.5s
+clear  n=740 type=9 steps=8264 score=417510 total=8510408 t=7.5s
+clear  n=741 type=8 steps=11355 score=418530 total=8521763 t=7.5s
+clear  n=742 type=9 steps=20404 score=419100 total=8542167 t=7.5s
+dot    n=743 bricks=66 score=419200 t=7.5s
+clear  n=743 type=8 steps=9266 score=420120 total=8551433 t=7.6s
+clear  n=744 type=9 steps=9925 score=420680 total=8561358 t=7.6s
+dot    n=745 bricks=2 score=421250 t=7.6s
+clear  n=745 type=3 steps=35072 score=421270 total=8596430 t=7.6s
+dot    n=746 bricks=10 score=421760 t=7.6s
+clear  n=746 type=3 steps=11227 score=421860 total=8607657 t=7.6s
+clear  n=747 type=1 steps=11300 score=422610 total=8618957 t=7.6s
+dot    n=748 bricks=1 score=423350 t=7.7s
+clear  n=748 type=6 steps=16567 score=423360 total=8635524 t=7.7s
+clear  n=749 type=9 steps=5554 score=423940 total=8641078 t=7.7s
+milestone n=750 t=7.7s
+clear  n=750 type=9 steps=13031 score=424690 total=8654109 t=7.7s
+dot    n=751 bricks=9 score=425310 t=7.7s
+clear  n=751 type=9 steps=14604 score=425400 total=8668713 t=7.7s
+clear  n=752 type=3 steps=8743 score=426060 total=8677456 t=7.7s
+dot    n=753 bricks=4 score=426720 t=7.7s
+clear  n=753 type=9 steps=34671 score=426760 total=8712127 t=7.8s
+dot    n=754 bricks=4 score=427560 t=7.8s
+clear  n=754 type=1 steps=18263 score=427600 total=8730390 t=7.8s
+clear  n=755 type=6 steps=21605 score=428440 total=8751995 t=7.8s
+clear  n=756 type=9 steps=20099 score=429210 total=8772094 t=7.9s
+dot    n=757 bricks=74 score=429310 t=7.9s
+clear  n=757 type=6 steps=13296 score=430050 total=8785390 t=7.9s
+dot    n=758 bricks=1 score=430700 t=7.9s
+clear  n=758 type=3 steps=17471 score=430710 total=8802861 t=7.9s
+clear  n=759 type=3 steps=7563 score=431370 total=8810424 t=7.9s
+clear  n=760 type=4 steps=4696 score=431930 total=8815120 t=7.9s
+dot    n=761 bricks=1 score=432640 t=7.9s
+clear  n=761 type=9 steps=18969 score=432650 total=8834089 t=7.9s
+clear  n=762 type=9 steps=9979 score=433390 total=8844068 t=8.0s
+clear  n=763 type=8 steps=15062 score=434500 total=8859130 t=8.0s
+dot    n=764 bricks=43 score=434920 t=8.0s
+clear  n=764 type=8 steps=26217 score=435610 total=8885347 t=8.0s
+dot    n=765 bricks=6 score=436210 t=8.0s
+clear  n=765 type=3 steps=17472 score=436270 total=8902819 t=8.1s
+clear  n=766 type=1 steps=15609 score=437110 total=8918428 t=8.1s
+dot    n=767 bricks=26 score=437550 t=8.1s
+clear  n=767 type=9 steps=8165 score=437810 total=8926593 t=8.1s
+clear  n=768 type=2 steps=9628 score=438220 total=8936221 t=8.1s
+clear  n=769 type=2 steps=6901 score=438630 total=8943122 t=8.1s
+clear  n=770 type=3 steps=12685 score=439290 total=8955807 t=8.1s
+dot    n=771 bricks=63 score=439390 t=8.1s
+clear  n=771 type=9 steps=20948 score=440020 total=8976755 t=8.2s
+dot    n=772 bricks=1 score=440670 t=8.2s
+clear  n=772 type=3 steps=9209 score=440680 total=8985964 t=8.2s
+clear  n=773 type=1 steps=15272 score=441520 total=9001236 t=8.2s
+clear  n=774 type=5 steps=3673 score=441990 total=9004909 t=8.2s
+milestone n=775 t=8.2s
+dot    n=775 bricks=8 score=442750 t=8.2s
+clear  n=775 type=1 steps=18947 score=442830 total=9023856 t=8.2s
+dot    n=776 bricks=1 score=443930 t=8.3s
+clear  n=776 type=8 steps=22258 score=443940 total=9046114 t=8.3s
+clear  n=777 type=5 steps=4966 score=444410 total=9051080 t=8.3s
+clear  n=778 type=8 steps=12093 score=445520 total=9063173 t=8.3s
+dot    n=779 bricks=1 score=446350 t=8.3s
+clear  n=779 type=1 steps=39784 score=446360 total=9102957 t=8.3s
+dot    n=780 bricks=33 score=446760 t=8.4s
+clear  n=780 type=9 steps=15127 score=447090 total=9118084 t=8.4s
+clear  n=781 type=9 steps=9040 score=447820 total=9127124 t=8.4s
+dot    n=782 bricks=5 score=448500 t=8.4s
+clear  n=782 type=9 steps=10516 score=448550 total=9137640 t=8.4s
+clear  n=783 type=9 steps=18664 score=449280 total=9156304 t=8.4s
+clear  n=784 type=9 steps=11630 score=450000 total=9167934 t=8.4s
+dot    n=785 bricks=64 score=450100 t=8.4s
+clear  n=785 type=9 steps=13022 score=450740 total=9180956 t=8.5s
+clear  n=786 type=9 steps=9546 score=451450 total=9190502 t=8.5s
+clear  n=787 type=5 steps=5253 score=451920 total=9195755 t=8.5s
+dot    n=788 bricks=23 score=452430 t=8.5s
+clear  n=788 type=9 steps=11069 score=452660 total=9206824 t=8.5s
+clear  n=789 type=4 steps=3853 score=453220 total=9210677 t=8.5s
+clear  n=790 type=9 steps=16650 score=453960 total=9227327 t=8.5s
+clear  n=791 type=2 steps=13385 score=454370 total=9240712 t=8.5s
+dot    n=792 bricks=63 score=454470 t=8.5s
+clear  n=792 type=9 steps=13380 score=455100 total=9254092 t=8.6s
+clear  n=793 type=9 steps=11051 score=455810 total=9265143 t=8.6s
+dot    n=794 bricks=6 score=456160 t=8.6s
+clear  n=794 type=2 steps=17452 score=456220 total=9282595 t=8.6s
+dot    n=795 bricks=1 score=456620 t=8.6s
+clear  n=795 type=2 steps=18861 score=456630 total=9301456 t=8.6s
+clear  n=796 type=2 steps=9734 score=457040 total=9311190 t=8.6s
+clear  n=797 type=8 steps=16242 score=458150 total=9327432 t=8.7s
+clear  n=798 type=9 steps=13900 score=458880 total=9341332 t=8.7s
+dot    n=799 bricks=68 score=458980 t=8.7s
+clear  n=799 type=9 steps=7658 score=459660 total=9348990 t=8.7s
+milestone n=800 t=8.7s
+clear  n=800 type=9 steps=11675 score=460410 total=9360665 t=8.7s
+dot    n=801 bricks=2 score=461120 t=8.7s
+clear  n=801 type=9 steps=12529 score=461140 total=9373194 t=8.7s
+clear  n=802 type=8 steps=20127 score=462250 total=9393321 t=8.8s
+dot    n=803 bricks=3 score=462950 t=8.8s
+clear  n=803 type=9 steps=15509 score=462980 total=9408830 t=8.8s
+clear  n=804 type=9 steps=8460 score=463700 total=9417290 t=8.8s
+clear  n=805 type=9 steps=22634 score=464410 total=9439924 t=8.8s
+dot    n=806 bricks=74 score=464510 t=8.8s
+clear  n=806 type=6 steps=10740 score=465250 total=9450664 t=8.8s
+clear  n=807 type=3 steps=11625 score=465910 total=9462289 t=8.9s
+dot    n=808 bricks=5 score=466270 t=8.9s
+clear  n=808 type=2 steps=16952 score=466320 total=9479241 t=8.9s
+clear  n=809 type=6 steps=12751 score=467160 total=9491992 t=8.9s
+dot    n=810 bricks=2 score=467550 t=8.9s
+clear  n=810 type=2 steps=8449 score=467570 total=9500441 t=8.9s
+clear  n=811 type=4 steps=9136 score=468130 total=9509577 t=8.9s
+clear  n=812 type=1 steps=14175 score=468970 total=9523752 t=8.9s
+clear  n=813 type=5 steps=2949 score=469440 total=9526701 t=9.0s
+dot    n=814 bricks=21 score=469970 t=9.0s
+clear  n=814 type=9 steps=8231 score=470180 total=9534932 t=9.0s
+clear  n=815 type=9 steps=12548 score=470910 total=9547480 t=9.0s
+clear  n=816 type=9 steps=11075 score=471620 total=9558555 t=9.0s
+dot    n=817 bricks=34 score=472010 t=9.0s
+clear  n=817 type=9 steps=7370 score=472350 total=9565925 t=9.0s
+clear  n=818 type=9 steps=11737 score=473070 total=9577662 t=9.0s
+clear  n=819 type=4 steps=4579 score=473630 total=9582241 t=9.0s
+dot    n=820 bricks=9 score=474380 t=9.1s
+clear  n=820 type=1 steps=14551 score=474470 total=9596792 t=9.1s
+dot    n=821 bricks=1 score=474870 t=9.1s
+clear  n=821 type=2 steps=30681 score=474880 total=9627473 t=9.1s
+clear  n=822 type=2 steps=13947 score=475290 total=9641420 t=9.1s
+dot    n=823 bricks=3 score=476100 t=9.1s
+clear  n=823 type=1 steps=13859 score=476130 total=9655279 t=9.1s
+clear  n=824 type=2 steps=23368 score=476540 total=9678647 t=9.2s
+milestone n=825 t=9.2s
+dot    n=825 bricks=39 score=476870 t=9.2s
+clear  n=825 type=9 steps=10832 score=477260 total=9689479 t=9.2s
+clear  n=826 type=9 steps=12044 score=477980 total=9701523 t=9.2s
+dot    n=827 bricks=3 score=478660 t=9.2s
+clear  n=827 type=9 steps=12948 score=478690 total=9714471 t=9.2s
+clear  n=828 type=9 steps=13990 score=479430 total=9728461 t=9.2s
+dot    n=829 bricks=1 score=480140 t=9.2s
+clear  n=829 type=9 steps=25770 score=480150 total=9754231 t=9.3s
+dot    n=830 bricks=1 score=481310 t=9.3s
+clear  n=830 type=8 steps=18542 score=481320 total=9772773 t=9.3s
+clear  n=831 type=3 steps=8497 score=482100 total=9781270 t=9.3s
+clear  n=832 type=5 steps=4646 score=482600 total=9785916 t=9.3s
+clear  n=833 type=9 steps=20331 score=483360 total=9806247 t=9.3s
+dot    n=834 bricks=66 score=483460 t=9.3s
+clear  n=834 type=9 steps=14273 score=484120 total=9820520 t=9.4s
+clear  n=835 type=9 steps=13100 score=484870 total=9833620 t=9.4s
+dot    n=836 bricks=23 score=485400 t=9.4s
+clear  n=836 type=9 steps=14787 score=485630 total=9848407 t=9.4s
+clear  n=837 type=9 steps=16026 score=486390 total=9864433 t=9.4s
+dot    n=838 bricks=55 score=486610 t=9.4s
+clear  n=838 type=9 steps=14291 score=487160 total=9878724 t=9.5s
+clear  n=839 type=9 steps=7537 score=487940 total=9886261 t=9.5s
+clear  n=840 type=9 steps=17609 score=488720 total=9903870 t=9.5s
+dot    n=841 bricks=80 score=488820 t=9.5s
+clear  n=841 type=1 steps=18069 score=489620 total=9921939 t=9.5s
+dot    n=842 bricks=2 score=490380 t=9.5s
+clear  n=842 type=9 steps=33060 score=490400 total=9954999 t=9.6s
+dot    n=843 bricks=10 score=491060 t=9.6s
+clear  n=843 type=9 steps=15458 score=491160 total=9970457 t=9.6s
+dot    n=844 bricks=1 score=492280 t=9.6s
+clear  n=844 type=8 steps=24249 score=492330 total=9994706 t=9.6s
+clear  n=845 type=9 steps=8845 score=493080 total=10003551 t=9.6s
+clear  n=846 type=9 steps=13539 score=493840 total=10017090 t=9.7s
+clear  n=847 type=9 steps=20224 score=494620 total=10037314 t=9.7s
+dot    n=848 bricks=81 score=494720 t=9.7s
+clear  n=848 type=8 steps=22127 score=495790 total=10059441 t=9.7s
+dot    n=849 bricks=7 score=496500 t=9.7s
+clear  n=849 type=3 steps=11780 score=496570 total=10071221 t=9.8s
+milestone n=850 t=9.8s
+clear  n=850 type=1 steps=21675 score=497470 total=10092896 t=9.8s
+dot    n=851 bricks=24 score=497980 t=9.8s
+clear  n=851 type=9 steps=19475 score=498220 total=10112371 t=9.8s
+clear  n=852 type=2 steps=8626 score=498630 total=10120997 t=9.8s
+dot    n=853 bricks=3 score=499010 t=9.8s
+clear  n=853 type=2 steps=7069 score=499040 total=10128066 t=9.8s
+clear  n=854 type=9 steps=19772 score=499820 total=10147838 t=9.9s
+dot    n=855 bricks=2 score=500560 t=9.9s
+clear  n=855 type=9 steps=10043 score=500580 total=10157881 t=9.9s
+dot    n=856 bricks=4 score=501440 t=9.9s
+clear  n=856 type=1 steps=47985 score=501480 total=10205866 t=10.0s
+dot    n=857 bricks=1 score=502220 t=10.0s
+clear  n=857 type=9 steps=12163 score=502230 total=10218029 t=10.0s
+clear  n=858 type=1 steps=9705 score=503130 total=10227734 t=10.0s
+clear  n=859 type=9 steps=15851 score=503850 total=10243585 t=10.0s
+dot    n=860 bricks=25 score=504380 t=10.0s
+clear  n=860 type=9 steps=12960 score=504630 total=10256545 t=10.0s
+clear  n=861 type=3 steps=12793 score=505410 total=10269338 t=10.1s
+dot    n=862 bricks=2 score=505800 t=10.1s
+clear  n=862 type=2 steps=18639 score=505820 total=10287977 t=10.1s
+dot    n=863 bricks=4 score=506550 t=10.1s
+clear  n=863 type=9 steps=48478 score=506590 total=10336455 t=10.1s
+dot    n=864 bricks=54 score=506840 t=10.1s
+clear  n=864 type=9 steps=17585 score=507380 total=10354040 t=10.2s
+clear  n=865 type=2 steps=12883 score=507790 total=10366923 t=10.2s
+dot    n=866 bricks=34 score=507950 t=10.2s
+clear  n=866 type=5 steps=2635 score=508290 total=10369558 t=10.2s
+clear  n=867 type=9 steps=15583 score=509050 total=10385141 t=10.2s
+clear  n=868 type=9 steps=15057 score=509810 total=10400198 t=10.2s
+dot    n=869 bricks=65 score=509910 t=10.2s
+clear  n=869 type=9 steps=14995 score=510560 total=10415193 t=10.3s
+dot    n=870 bricks=2 score=511290 t=10.3s
+clear  n=870 type=9 steps=17699 score=511310 total=10432892 t=10.3s
+clear  n=871 type=8 steps=12600 score=512480 total=10445492 t=10.3s
+clear  n=872 type=9 steps=13463 score=513240 total=10458955 t=10.3s
+dot    n=873 bricks=18 score=513560 t=10.3s
+clear  n=873 type=5 steps=3038 score=513740 total=10461993 t=10.3s
+clear  n=874 type=9 steps=16901 score=514500 total=10478894 t=10.4s
+milestone n=875 t=10.4s
+clear  n=875 type=9 steps=19259 score=515250 total=10498153 t=10.4s
+dot    n=876 bricks=45 score=515350 t=10.4s
+clear  n=876 type=4 steps=4458 score=515800 total=10502611 t=10.4s
+clear  n=877 type=4 steps=3473 score=516350 total=10506084 t=10.4s
+clear  n=878 type=4 steps=4542 score=516900 total=10510626 t=10.4s
+clear  n=879 type=9 steps=11881 score=517680 total=10522507 t=10.4s
+dot    n=880 bricks=14 score=518290 t=10.4s
+clear  n=880 type=9 steps=14605 score=518430 total=10537112 t=10.5s
+clear  n=881 type=9 steps=15538 score=519190 total=10552650 t=10.5s
+clear  n=882 type=6 steps=21770 score=520090 total=10574420 t=10.5s
+dot    n=883 bricks=40 score=520190 t=10.5s
+clear  n=883 type=5 steps=4039 score=520590 total=10578459 t=10.5s
+clear  n=884 type=9 steps=12270 score=521340 total=10590729 t=10.5s
+clear  n=885 type=9 steps=11440 score=522100 total=10602169 t=10.6s
+dot    n=886 bricks=16 score=522490 t=10.6s
+clear  n=886 type=4 steps=5585 score=522650 total=10607754 t=10.6s
+clear  n=887 type=9 steps=11939 score=523400 total=10619693 t=10.6s
+clear  n=888 type=9 steps=9736 score=524180 total=10629429 t=10.6s
+clear  n=889 type=9 steps=16482 score=524930 total=10645911 t=10.6s
+dot    n=890 bricks=68 score=525030 t=10.6s
+clear  n=890 type=3 steps=15142 score=525710 total=10661053 t=10.7s
+dot    n=891 bricks=1 score=526450 t=10.7s
+clear  n=891 type=9 steps=16919 score=526460 total=10677972 t=10.7s
+clear  n=892 type=9 steps=17377 score=527220 total=10695349 t=10.7s
+dot    n=893 bricks=1 score=527980 t=10.7s
+clear  n=893 type=9 steps=11598 score=527990 total=10706947 t=10.7s
+clear  n=894 type=9 steps=6934 score=528730 total=10713881 t=10.7s
+clear  n=895 type=9 steps=8395 score=529480 total=10722276 t=10.7s
+clear  n=896 type=9 steps=17021 score=530230 total=10739297 t=10.8s
+dot    n=897 bricks=65 score=530330 t=10.8s
+clear  n=897 type=9 steps=10620 score=530980 total=10749917 t=10.8s
+clear  n=898 type=9 steps=17012 score=531760 total=10766929 t=10.8s
+dot    n=899 bricks=33 score=532210 t=10.8s
+clear  n=899 type=9 steps=10654 score=532540 total=10777583 t=10.8s
+milestone n=900 t=10.8s
+clear  n=900 type=9 steps=8581 score=533320 total=10786164 t=10.9s
+dot    n=901 bricks=8 score=534140 t=10.9s
+dot    n=901 bricks=1 score=534210 t=10.9s
+clear  n=901 type=1 steps=47742 score=534220 total=10833906 t=10.9s
+clear  n=902 type=1 steps=8950 score=535120 total=10842856 t=10.9s
+clear  n=903 type=9 steps=8963 score=535870 total=10851819 t=10.9s
+clear  n=904 type=4 steps=3169 score=536420 total=10854988 t=11.0s
+dot    n=905 bricks=23 score=536930 t=11.0s
+clear  n=905 type=9 steps=14448 score=537160 total=10869436 t=11.0s
+clear  n=906 type=6 steps=12228 score=538060 total=10881664 t=11.0s
+dot    n=907 bricks=7 score=538760 t=11.0s
+clear  n=907 type=9 steps=27459 score=538830 total=10909123 t=11.0s
+clear  n=908 type=5 steps=5284 score=539330 total=10914407 t=11.0s
+dot    n=909 bricks=29 score=539940 t=11.1s
+clear  n=909 type=6 steps=9718 score=540230 total=10924125 t=11.1s
+clear  n=910 type=4 steps=6087 score=540780 total=10930212 t=11.1s
+clear  n=911 type=4 steps=6611 score=541330 total=10936823 t=11.1s
+clear  n=912 type=9 steps=8773 score=542100 total=10945596 t=11.1s
+dot    n=913 bricks=24 score=542610 t=11.1s
+clear  n=913 type=9 steps=13137 score=542850 total=10958733 t=11.1s
+clear  n=914 type=9 steps=16894 score=543630 total=10975627 t=11.1s
+dot    n=915 bricks=25 score=544140 t=11.1s
+clear  n=915 type=9 steps=23344 score=544390 total=10998971 t=11.2s
+clear  n=916 type=2 steps=5399 score=544800 total=11004370 t=11.2s
+clear  n=917 type=9 steps=27139 score=545550 total=11031509 t=11.2s
+dot    n=918 bricks=31 score=545650 t=11.2s
+clear  n=918 type=2 steps=7071 score=545960 total=11038580 t=11.2s
+clear  n=919 type=2 steps=9263 score=546370 total=11047843 t=11.2s
+clear  n=920 type=9 steps=12568 score=547150 total=11060411 t=11.3s
+dot    n=921 bricks=56 score=547490 t=11.3s
+clear  n=921 type=6 steps=19942 score=548050 total=11080353 t=11.3s
+clear  n=922 type=4 steps=8153 score=548600 total=11088506 t=11.3s
+dot    n=923 bricks=34 score=549030 t=11.3s
+clear  n=923 type=9 steps=16285 score=549370 total=11104791 t=11.3s
+clear  n=924 type=1 steps=31562 score=550270 total=11136353 t=11.4s
+milestone n=925 t=11.4s
+dot    n=925 bricks=68 score=550370 t=11.4s
+clear  n=925 type=9 steps=23199 score=551050 total=11159552 t=11.4s
+dot    n=926 bricks=9 score=551730 t=11.4s
+clear  n=926 type=9 steps=16666 score=551820 total=11176218 t=11.4s
+clear  n=927 type=5 steps=4099 score=552320 total=11180317 t=11.5s
+dot    n=928 bricks=4 score=553180 t=11.5s
+clear  n=928 type=1 steps=19383 score=553220 total=11199700 t=11.5s
+clear  n=929 type=5 steps=4139 score=553720 total=11203839 t=11.5s
+clear  n=930 type=9 steps=17263 score=554470 total=11221102 t=11.5s
+clear  n=931 type=9 steps=7560 score=555240 total=11228662 t=11.5s
+dot    n=932 bricks=68 score=555340 t=11.5s
+clear  n=932 type=3 steps=16054 score=556020 total=11244716 t=11.6s
+clear  n=933 type=9 steps=11355 score=556760 total=11256071 t=11.6s
+dot    n=934 bricks=23 score=557260 t=11.6s
+clear  n=934 type=9 steps=8861 score=557490 total=11264932 t=11.6s
+clear  n=935 type=5 steps=4655 score=557990 total=11269587 t=11.6s
+clear  n=936 type=1 steps=18980 score=558890 total=11288567 t=11.6s
+dot    n=937 bricks=67 score=559000 t=11.6s
+clear  n=937 type=3 steps=21088 score=559670 total=11309655 t=11.7s
+clear  n=938 type=2 steps=20626 score=560080 total=11330281 t=11.7s
+dot    n=939 bricks=68 score=560180 t=11.7s
+clear  n=939 type=9 steps=14036 score=560860 total=11344317 t=11.7s
+dot    n=940 bricks=1 score=561750 t=11.7s
+clear  n=940 type=1 steps=17112 score=561760 total=11361429 t=11.7s
+clear  n=941 type=4 steps=7770 score=562310 total=11369199 t=11.7s
+clear  n=942 type=9 steps=16498 score=563050 total=11385697 t=11.8s
+dot    n=943 bricks=2 score=563530 t=11.8s
+clear  n=943 type=5 steps=5337 score=563550 total=11391034 t=11.8s
+clear  n=944 type=1 steps=11822 score=564450 total=11402856 t=11.8s
+clear  n=945 type=5 steps=4327 score=564950 total=11407183 t=11.8s
+dot    n=946 bricks=1 score=565710 t=11.8s
+clear  n=946 type=9 steps=16195 score=565720 total=11423378 t=11.8s
+dot    n=947 bricks=4 score=566720 t=11.9s
+clear  n=947 type=8 steps=38923 score=566890 total=11462301 t=11.9s
+clear  n=948 type=2 steps=7248 score=567300 total=11469549 t=11.9s
+clear  n=949 type=4 steps=3863 score=567850 total=11473412 t=11.9s
+milestone n=950 t=11.9s
+dot    n=950 bricks=4 score=568590 t=11.9s
+clear  n=950 type=9 steps=11712 score=568630 total=11485124 t=11.9s
+clear  n=951 type=9 steps=12104 score=569410 total=11497228 t=11.9s
+clear  n=952 type=3 steps=18269 score=570190 total=11515497 t=12.0s
+dot    n=953 bricks=68 score=570290 t=12.0s
+clear  n=953 type=9 steps=15917 score=570970 total=11531414 t=12.0s
+clear  n=954 type=9 steps=13448 score=571720 total=11544862 t=12.0s
+dot    n=955 bricks=59 score=572030 t=12.0s
+clear  n=955 type=1 steps=17744 score=572620 total=11562606 t=12.0s
+dot    n=956 bricks=3 score=573360 t=12.0s
+clear  n=956 type=9 steps=18767 score=573390 total=11581373 t=12.1s
+clear  n=957 type=9 steps=13144 score=574180 total=11594517 t=12.1s
+dot    n=958 bricks=1 score=575340 t=12.1s
+clear  n=958 type=8 steps=11825 score=575350 total=11606342 t=12.1s
+clear  n=959 type=9 steps=28327 score=576140 total=11634669 t=12.1s
+dot    n=960 bricks=49 score=576400 t=12.1s
+clear  n=960 type=9 steps=8087 score=576890 total=11642756 t=12.1s
+clear  n=961 type=5 steps=5270 score=577390 total=11648026 t=12.2s
+clear  n=962 type=3 steps=12464 score=578170 total=11660490 t=12.2s
+dot    n=963 bricks=23 score=578840 t=12.2s
+clear  n=963 type=1 steps=23636 score=579070 total=11684126 t=12.2s
+dot    n=964 bricks=1 score=579960 t=12.2s
+clear  n=964 type=1 steps=12292 score=579970 total=11696418 t=12.2s
+clear  n=965 type=2 steps=7002 score=580380 total=11703420 t=12.2s
+clear  n=966 type=3 steps=15736 score=581160 total=11719156 t=12.3s
+dot    n=967 bricks=10 score=581830 t=12.3s
+clear  n=967 type=9 steps=10472 score=581930 total=11729628 t=12.3s
+clear  n=968 type=5 steps=5141 score=582430 total=11734769 t=12.3s
+clear  n=969 type=8 steps=19846 score=583600 total=11754615 t=12.3s
+dot    n=970 bricks=22 score=583790 t=12.3s
+clear  n=970 type=2 steps=5405 score=584010 total=11760020 t=12.3s
+clear  n=971 type=9 steps=19312 score=584790 total=11779332 t=12.4s
+dot    n=972 bricks=10 score=585440 t=12.4s
+clear  n=972 type=9 steps=15497 score=585540 total=11794829 t=12.4s
+clear  n=973 type=4 steps=6516 score=586090 total=11801345 t=12.4s
+clear  n=974 type=9 steps=10777 score=586860 total=11812122 t=12.4s
+milestone n=975 t=12.4s
+dot    n=975 bricks=29 score=587320 t=12.4s
+clear  n=975 type=9 steps=9015 score=587610 total=11821137 t=12.4s
+clear  n=976 type=9 steps=18088 score=588410 total=11839225 t=12.4s
+dot    n=977 bricks=4 score=589150 t=12.5s
+clear  n=977 type=3 steps=8425 score=589190 total=11847650 t=12.5s
+clear  n=978 type=1 steps=21973 score=590090 total=11869623 t=12.5s
+dot    n=979 bricks=4 score=590950 t=12.5s
+clear  n=979 type=6 steps=7978 score=590990 total=11877601 t=12.5s
+clear  n=980 type=5 steps=4480 score=591490 total=11882081 t=12.5s
+clear  n=981 type=1 steps=9547 score=592390 total=11891628 t=12.5s
+dot    n=982 bricks=4 score=593100 t=12.6s
+clear  n=982 type=9 steps=17656 score=593140 total=11909284 t=12.6s
+clear  n=983 type=9 steps=10166 score=593920 total=11919450 t=12.6s
+clear  n=984 type=9 steps=8396 score=594670 total=11927846 t=12.6s
+dot    n=985 bricks=11 score=595300 t=12.6s
+clear  n=985 type=9 steps=18641 score=595410 total=11946487 t=12.6s
+clear  n=986 type=9 steps=10852 score=596190 total=11957339 t=12.6s
+clear  n=987 type=9 steps=9359 score=596950 total=11966698 t=12.6s
+dot    n=988 bricks=40 score=597050 t=12.6s
+clear  n=988 type=5 steps=7073 score=597450 total=11973771 t=12.7s
+clear  n=989 type=9 steps=12965 score=598220 total=11986736 t=12.7s
+dot    n=990 bricks=11 score=598940 t=12.7s
+clear  n=990 type=9 steps=14823 score=599050 total=12001559 t=12.7s
+clear  n=991 type=8 steps=18082 score=600220 total=12019641 t=12.7s
+dot    n=992 bricks=4 score=601350 t=12.7s
+clear  n=992 type=8 steps=8117 score=601390 total=12027758 t=12.7s
+clear  n=993 type=9 steps=18355 score=602130 total=12046113 t=12.8s
+clear  n=994 type=9 steps=10267 score=602930 total=12056380 t=12.8s
+dot    n=995 bricks=37 score=603110 t=12.8s
+clear  n=995 type=4 steps=2872 score=603480 total=12059252 t=12.8s
+clear  n=996 type=5 steps=3189 score=604010 total=12062441 t=12.8s
+clear  n=997 type=9 steps=8861 score=604690 total=12071302 t=12.8s
+clear  n=998 type=9 steps=10915 score=605370 total=12082217 t=12.8s
+FINAL-WIN level=999 score=606000 totalSteps=12086315 t=12.8s

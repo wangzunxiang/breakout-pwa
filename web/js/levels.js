@@ -212,7 +212,6 @@
       g = baseLayout(1, cols, rows, mulberry32(n));
     }
 
-    var winScore = (n > 0) ? destructibleCount(g) * 10 + 100 : 100;
     return {
       level: n,
       type: type,
@@ -221,8 +220,7 @@
       grid: g,
       ballSpeed: Math.round(ballSpeed(n)),
       paddleWidth: Math.round(paddleWidth(n)),
-      ballCount: ballCount(n),
-      winScore: winScore
+      ballCount: ballCount(n)
     };
   }
 
