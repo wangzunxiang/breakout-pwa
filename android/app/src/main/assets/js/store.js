@@ -4,9 +4,8 @@
 
   var KEY_HS = 'breakout_highscore';
   var KEY_PROG = 'breakout_progress';
-  var KEY_BONUS = 'breakout_bonus_lives';
 
-  var mem = { highScore: 0, maxLevel: 0, bonusLives: 0 }; // in-memory fallback
+  var mem = { highScore: 0, maxLevel: 0 }; // in-memory fallback
 
   function ls() {
     try { return (typeof window !== 'undefined' && window.localStorage) || null; }
@@ -48,17 +47,6 @@
       mem.maxLevel = n;
       writeInt(KEY_PROG, n);
       return n;
-    },
-    // 通关奖励命：每完整通关一次 +1（开局 3 条命之上叠加）
-    getBonusLives: function () {
-      var v = readInt(KEY_BONUS, 0);
-      mem.bonusLives = v;
-      return v;
-    },
-    addBonusLife: function () {
-      mem.bonusLives = readInt(KEY_BONUS, 0) + 1;
-      writeInt(KEY_BONUS, mem.bonusLives);
-      return mem.bonusLives;
     }
   };
 

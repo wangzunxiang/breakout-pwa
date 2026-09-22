@@ -354,8 +354,8 @@
 
   // ---------- state machine ----------
   function start() {
-    if (store) { S.highScore = store.getHighScore(); S.maxLevel = store.getProgress().maxLevel; S.bonusLives = store.getBonusLives(); }
-    S.score = 0; S.lives = 3 + (S.bonusLives || 0); S.over = false;
+    if (store) { S.highScore = store.getHighScore(); S.maxLevel = store.getProgress().maxLevel; }
+    S.score = 0; S.lives = 3; S.over = false;
     S._paddleHits = 0;
     S._stuck = 0; S._escN = 0; S._lastBricks = null;
     S.level = S.testMode ? (S._startLevel || 1) : 1;
@@ -367,10 +367,10 @@
   function advanceLevel() {
     if (S.level >= (LG ? LG.MAX_LEVEL : 999)) {
       S.state = 'gameover'; S.win = true;
-      if (store) { S.bonusLives = store.addBonusLife(); }  // 每完整通关一次 +1 命（下次开局生效）
       if (S.score > S.highScore) { S.highScore = S.score; store.setHighScore(S.highScore); }
       return;
     }
+    S.lives++;   // 规则：每通关一关 LIVES +1（本局立即生效）
     S.level++;
     S.state = 'playing';
     loadLevel(S.level);
@@ -467,7 +467,7 @@
     ctx.textAlign = 'center';
     if (S.state === 'title') overlay('BREAKOUT 999', 'Tap / Space to start', 28);
     else if (S.state === 'levelclear') overlay('LEVEL CLEAR', 'Next: ' + (S.level + 1), 26);
-    else if (S.state === 'gameover') overlay(S.win ? 'YOU WIN!  +1 LIFE (next run)' : 'GAME OVER', 'Score ' + S.score + '  -  Tap / Space to restart', 30);
+    else if (S.state === 'gameover') overlay(S.win ? 'YOU WIN!' : 'GAME OVER', 'Score ' + S.score + '  -  Tap / Space to restart', 30);
   }
 
   function overlay(title, sub, size) {

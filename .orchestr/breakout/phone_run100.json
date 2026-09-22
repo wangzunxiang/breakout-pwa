@@ -1,0 +1,17 @@
+{
+ "target": "emulator-5554 (Android WebView, test build CDP)",
+ "method": "engine stepOnce driven via CDP, real production level/collision/win code",
+ "status": "done",
+ "clearedCount": 100,
+ "missing": [],
+ "archetypes": {
+  "1": 15,
+  "2": 15,
+  "3": 15,
+  "4": 15,
+  "5": 15,
+  "6": 15,
+  "7": 10
+ },
+ "verdict": "PASS"
+}

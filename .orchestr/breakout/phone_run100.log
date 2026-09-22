@@ -1,0 +1,22 @@
+reloaded state: {"level":1,"score":10,"lives":3,"highScore":1570,"state":"playing","win":false,"bricksRemaining":39,"ballCount":1,"balls":[{"x":411,"y":452,"vx":-223,"vy":-169}],"paddle":{"x":340,"w":150},"lvType":1}
+install: installed
+[   0.1s] status=running maxLevel=10 cleared=9 state=playing level=10 score=4770
+[   0.2s] status=running maxLevel=18 cleared=17 state=playing level=18 score=8190
+[   0.3s] status=running maxLevel=29 cleared=29 state=levelclear level=29 score=11280
+[   0.4s] status=running maxLevel=41 cleared=41 state=levelclear level=41 score=15400
+[   0.5s] status=running maxLevel=53 cleared=52 state=playing level=53 score=19530
+[   0.6s] status=running maxLevel=64 cleared=63 state=playing level=64 score=23700
+[   0.7s] status=running maxLevel=75 cleared=75 state=levelclear level=75 score=27440
+[   0.8s] status=running maxLevel=85 cleared=84 state=playing level=85 score=31820
+[   0.9s] status=running maxLevel=93 cleared=92 state=playing level=93 score=35400
+[   1.0s] status=done maxLevel=100 cleared=100 state=levelclear level=100 score=38210
+Traceback (most recent call last):
+  File "/mnt/e/codex/breakout/.orchestr/breakout/phone_run100.py", line 119, in <module>
+    asyncio.run(main())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/mnt/e/codex/breakout/.orchestr/breakout/phone_run100.py", line 91, in main
+    print(f"[{time.time()-t0:6.1f}s] status={v['status']} maxLevel={v['maxLevel']} cleared={v['clearedCount']} state={cur.get('state')} level={cur.get('level')} score={cur.get('score')}", flush=True)
+KeyError: 'maxLevel'
