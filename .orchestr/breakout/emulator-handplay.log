@@ -1,0 +1,227 @@
+23:54:49 === handplay begin 20s ===
+23:54:50 iter 1: balls=9 ball0=(1100,672) target_x=1100
+23:54:50 iter 1: no ball -> tap center (start/next) big=1
+23:54:50 iter 2: no ball -> tap center (start/next) big=1
+23:54:51 iter 3: no ball -> tap center (start/next) big=1
+23:54:51 iter 4: no ball -> tap center (start/next) big=1
+23:54:52 iter 5: no ball -> tap center (start/next) big=1
+23:54:52 iter 6: no ball -> tap center (start/next) big=1
+23:54:52 iter 7: no ball -> tap center (start/next) big=0
+23:54:53 iter 8: no ball -> tap center (start/next) big=1
+23:54:53 iter 9: no ball -> tap center (start/next) big=1
+23:54:53 iter 10: no ball -> tap center (start/next) big=1
+23:54:54 iter 11: no ball -> tap center (start/next) big=1
+23:54:54 iter 12: no ball -> tap center (start/next) big=1
+23:54:55 iter 13: no ball -> tap center (start/next) big=1
+23:54:55 iter 14: no ball -> tap center (start/next) big=0
+00:06:51 === handplay v2 begin 120s ===
+00:06:51 iter 1: balls=21 ball0=(1456,666) tgt=1456 pad=1456
+00:06:54 iter 7: balls=2 ball0=(1574,1104) tgt=1637 pad=1636
+00:07:00 iter 13: balls=2 ball0=(1849,832) tgt=1849 pad=1849
+00:07:01 iter 13: no ball -> tap (restart/start) big=1
+00:07:04 iter 18: no ball -> tap (restart/start) big=0
+00:07:06 iter 21: no ball -> tap (restart/start) big=0
+00:07:08 iter 25: balls=1 ball0=(1935,1184) tgt=1935 pad=1934
+00:07:11 iter 29: no ball -> tap (restart/start) big=0
+00:07:12 iter 30: no ball -> tap (restart/start) big=1
+00:07:13 iter 31: no ball -> tap (restart/start) big=0
+00:07:18 iter 40: no ball -> tap (restart/start) big=0
+00:07:20 iter 43: balls=3 ball0=(1408,160) tgt=1408 pad=1408
+00:07:21 iter 44: no ball -> tap (restart/start) big=0
+00:07:22 iter 45: no ball -> tap (restart/start) big=0
+00:07:25 iter 49: no ball -> tap (restart/start) big=0
+00:07:28 iter 55: balls=2 ball0=(1117,768) tgt=2067 pad=2066
+00:07:34 iter 61: balls=3 ball0=(2127,512) tgt=2127 pad=2126
+00:07:35 iter 61: no ball -> tap (restart/start) big=0
+00:07:41 iter 73: balls=1 ball0=(2172,1309) tgt=2169 pad=2169
+00:07:43 iter 76: no ball -> tap (restart/start) big=0
+00:07:45 iter 79: balls=3 ball0=(1984,1232) tgt=1984 pad=1984
+00:07:46 iter 81: no ball -> tap (restart/start) big=1
+00:07:50 iter 88: no ball -> tap (restart/start) big=1
+00:07:52 iter 90: no ball -> tap (restart/start) big=0
+00:07:53 iter 92: no ball -> tap (restart/start) big=1
+00:07:56 iter 97: balls=1 ball0=(1494,896) tgt=1494 pad=1494
+00:08:01 iter 105: no ball -> tap (restart/start) big=1
+00:08:04 iter 111: no ball -> tap (restart/start) big=0
+00:08:12 iter 119: no ball -> tap (restart/start) big=0
+00:08:13 iter 121: balls=1 ball0=(2168,784) tgt=2168 pad=2168
+00:08:14 iter 122: no ball -> tap (restart/start) big=0
+00:08:16 iter 124: no ball -> tap (restart/start) big=1
+00:08:17 iter 127: balls=3 ball0=(1840,976) tgt=1840 pad=1840
+00:08:19 iter 130: no ball -> tap (restart/start) big=0
+00:08:21 iter 131: no ball -> tap (restart/start) big=0
+00:08:22 iter 132: no ball -> tap (restart/start) big=0
+00:08:23 iter 133: no ball -> tap (restart/start) big=0
+00:08:30 iter 145: balls=3 ball0=(2048,720) tgt=2048 pad=2048
+00:08:31 iter 148: no ball -> tap (restart/start) big=0
+00:08:33 iter 150: no ball -> tap (restart/start) big=0
+00:08:34 iter 151: no ball -> tap (restart/start) big=0
+00:08:36 iter 153: no ball -> tap (restart/start) big=0
+00:08:37 iter 154: no ball -> tap (restart/start) big=0
+00:08:39 iter 155: no ball -> tap (restart/start) big=0
+00:08:40 iter 157: balls=2 ball0=(1000,160) tgt=1000 pad=1000
+00:08:41 iter 158: no ball -> tap (restart/start) big=0
+00:08:45 iter 164: no ball -> tap (restart/start) big=0
+00:08:48 iter 169: balls=1 ball0=(1456,1237) tgt=1502 pad=1502
+00:08:50 iter 174: no ball -> tap (restart/start) big=0
+00:08:51 === handplay v2 end ===
+00:10:17 === handplay v3 begin 600s ===
+00:10:18 iter 1: balls=20 b0=(1302,665) v=(0,0) tgt=1302
+00:10:21 iter 7: balls=1 b0=(1439,986) v=(-145,-617) tgt=895
+00:10:24 iter 13: balls=1 b0=(1070,604) v=(-112,-663) tgt=741
+00:10:27 iter 19: balls=1 b0=(1407,935) v=(297,626) tgt=1598
+00:10:30 iter 25: balls=1 b0=(1572,1194) v=(147,151) tgt=1713
+00:10:33 iter 31: balls=1 b0=(1665,1068) v=(-490,-404) tgt=1746
+00:10:36 iter 37: balls=1 b0=(471,1241) v=(318,443) tgt=541
+00:10:39 iter 43: balls=1 b0=(347,890) v=(58,-632) tgt=551
+00:10:42 iter 49: balls=1 b0=(694,573) v=(-193,-681) tgt=344
+00:10:48 iter 55: balls=1 b0=(836,847) v=(201,639) tgt=990
+00:10:51 iter 61: balls=1 b0=(550,1065) v=(-185,684) tgt=476
+00:10:54 iter 67: balls=1 b0=(737,1308) v=(94,666) tgt=741
+00:10:57 iter 73: balls=2 b0=(599,1168) v=(-1,77) tgt=597
+00:11:01 iter 79: balls=1 b0=(714,1183) v=(-80,160) tgt=636
+00:11:02 iter 82: no ball -> tap#1 (start/next/restart) overlay=0
+00:11:04 iter 85: balls=1 b0=(481,1071) v=(287,613) tgt=606
+00:11:07 iter 91: balls=1 b0=(2253,526) v=(619,-302) tgt=1943
+00:11:09 iter 93: no ball -> tap#2 (start/next/restart) overlay=0
+00:11:10 iter 94: no ball -> tap#3 (start/next/restart) overlay=0
+00:11:11 iter 95: no ball -> tap#4 (start/next/restart) overlay=0
+00:11:12 iter 97: balls=1 b0=(432,263) v=(0,0) tgt=432
+00:11:15 iter 103: balls=1 b0=(1953,1147) v=(624,291) tgt=2261
+00:11:18 iter 109: balls=1 b0=(968,711) v=(-553,442) tgt=314
+00:11:24 iter 115: balls=1 b0=(920,458) v=(406,-486) tgt=2203
+00:11:27 iter 121: balls=1 b0=(1609,509) v=(-95,-569) tgt=1302
+00:11:30 iter 127: balls=1 b0=(1599,765) v=(-127,666) tgt=1490
+00:11:33 iter 133: balls=1 b0=(1255,986) v=(-109,681) tgt=1198
+00:11:36 iter 139: balls=1 b0=(1386,1127) v=(71,711) tgt=1407
+00:11:39 iter 145: balls=1 b0=(1373,1082) v=(74,683) tgt=1400
+00:11:42 iter 151: balls=1 b0=(1497,506) v=(172,683) tgt=1706
+00:11:45 iter 157: balls=1 b0=(1497,573) v=(-185,318) tgt=1052
+00:11:48 iter 162: no ball -> tap#5 (start/next/restart) overlay=0
+00:11:52 iter 169: balls=2 b0=(521,544) v=(-517,-428) tgt=2247
+00:11:53 iter 170: no ball -> tap#6 (start/next/restart) overlay=0
+00:11:54 iter 171: no ball -> tap#7 (start/next/restart) overlay=0
+00:11:59 iter 175: balls=1 b0=(1178,921) v=(-517,459) tgt=708
+00:12:02 iter 181: balls=1 b0=(1042,152) v=(145,-75) tgt=691
+00:12:05 iter 187: balls=1 b0=(962,428) v=(191,-605) tgt=1518
+00:12:06 iter 187: no ball -> tap#8 (start/next/restart) overlay=0
+00:12:09 iter 193: balls=1 b0=(1623,650) v=(121,-670) tgt=1981
+00:12:10 iter 194: no ball -> tap#9 (start/next/restart) overlay=0
+00:12:13 iter 199: balls=1 b0=(1052,956) v=(-469,-505) tgt=1575
+00:12:14 iter 202: no ball -> tap#10 (start/next/restart) overlay=0
+00:12:16 iter 205: balls=1 b0=(1156,863) v=(513,539) tgt=1608
+00:12:19 iter 211: balls=1 b0=(1338,141) v=(-115,-132) tgt=441
+00:12:22 iter 217: balls=1 b0=(1247,380) v=(73,-720) tgt=1420
+00:12:23 iter 217: no ball -> tap#11 (start/next/restart) overlay=0
+00:12:26 iter 223: balls=1 b0=(1657,573) v=(201,-601) tgt=2296
+00:12:29 iter 229: balls=1 b0=(2183,649) v=(117,-669) tgt=2092
+00:12:33 iter 230: no ball -> tap#12 (start/next/restart) overlay=0
+00:12:35 iter 235: balls=1 b0=(2276,880) v=(173,-671) tgt=1776
+00:12:39 iter 241: balls=1 b0=(1316,1036) v=(-72,736) tgt=1286
+00:12:40 iter 244: no ball -> tap#13 (start/next/restart) overlay=0
+00:12:42 iter 247: balls=1 b0=(1683,826) v=(111,405) tgt=1823
+00:12:45 iter 253: balls=1 b0=(1318,1191) v=(-192,681) tgt=1277
+00:12:48 iter 259: balls=1 b0=(1494,1031) v=(-50,-411) tgt=1205
+00:12:51 iter 265: balls=1 b0=(1401,777) v=(135,-657) tgt=1837
+00:12:54 iter 271: balls=1 b0=(1753,622) v=(172,-376) tgt=1976
+00:12:57 iter 277: balls=1 b0=(2186,1150) v=(186,660) tgt=2239
+00:13:01 iter 283: balls=1 b0=(1094,830) v=(-439,516) tgt=662
+00:13:04 iter 289: balls=1 b0=(946,1291) v=(132,759) tgt=954
+00:13:10 iter 295: balls=1 b0=(730,780) v=(-116,-667) tgt=361
+00:13:13 iter 301: balls=1 b0=(829,408) v=(202,-633) tgt=1385
+00:13:16 iter 307: balls=1 b0=(1283,922) v=(181,681) tgt=1394
+00:13:19 iter 313: balls=1 b0=(1132,1290) v=(-95,588) tgt=1124
+00:13:22 iter 319: balls=1 b0=(1077,1095) v=(-347,-293) tgt=2304
+00:13:25 iter 325: balls=1 b0=(816,1031) v=(467,-454) tgt=1369
+00:13:28 iter 331: balls=1 b0=(1033,971) v=(-492,483) tgt=659
+00:13:31 iter 337: balls=1 b0=(1124,1198) v=(189,668) tgt=1164
+00:13:34 iter 343: balls=1 b0=(1066,1303) v=(-30,650) tgt=1064
+00:13:37 iter 349: balls=1 b0=(1223,1307) v=(58,760) tgt=1226
+00:13:43 iter 355: balls=1 b0=(1330,1214) v=(0,0) tgt=1330
+00:13:46 iter 361: balls=1 b0=(1477,816) v=(-222,710) tgt=1313
+00:13:49 iter 367: balls=1 b0=(1398,763) v=(34,698) tgt=1426
+00:13:52 iter 373: balls=1 b0=(1194,174) v=(199,13) tgt=1194
+00:13:55 iter 379: balls=1 b0=(1657,428) v=(183,-683) tgt=2130
+00:13:58 iter 385: balls=1 b0=(1594,1113) v=(-82,-126) tgt=495
+00:14:00 iter 387: no ball -> tap#14 (start/next/restart) overlay=0
+00:14:02 iter 391: balls=1 b0=(1574,1290) v=(-175,591) tgt=1560
+00:14:04 iter 394: no ball -> tap#15 (start/next/restart) overlay=0
+00:14:06 iter 397: balls=1 b0=(2138,510) v=(190,661) tgt=2248
+00:14:09 iter 403: balls=1 b0=(1833,782) v=(-291,596) tgt=1562
+00:14:12 iter 409: balls=1 b0=(1926,171) v=(154,-1) tgt=1926
+00:14:15 iter 415: balls=1 b0=(2001,461) v=(-274,-625) tgt=1214
+00:14:21 iter 421: balls=1 b0=(1224,1144) v=(-131,-11) tgt=1224
+00:14:22 iter 423: no ball -> tap#16 (start/next/restart) overlay=0
+00:14:24 iter 426: no ball -> tap#17 (start/next/restart) overlay=0
+00:14:28 iter 433: balls=2 b0=(1367,240) v=(238,-598) tgt=1994
+00:14:28 iter 433: no ball -> tap#18 (start/next/restart) overlay=0
+00:14:31 iter 439: balls=1 b0=(1863,953) v=(-615,-287) tgt=1069
+00:14:34 iter 444: no ball -> tap#19 (start/next/restart) overlay=0
+00:14:38 iter 451: balls=1 b0=(889,1039) v=(-760,355) tgt=256
+00:14:41 iter 457: balls=1 b0=(1075,650) v=(399,435) tgt=1707
+00:14:44 iter 462: no ball -> tap#20 (start/next/restart) overlay=0
+00:14:48 iter 469: balls=1 b0=(1026,172) v=(-199,-726) tgt=611
+00:14:54 iter 475: balls=1 b0=(714,717) v=(117,-746) tgt=1037
+00:14:55 iter 476: no ball -> tap#21 (start/next/restart) overlay=0
+00:14:58 iter 481: balls=1 b0=(1281,943) v=(365,-568) tgt=1878
+00:14:59 iter 483: no ball -> tap#22 (start/next/restart) overlay=0
+00:15:01 iter 487: balls=2 b0=(1942,1184) v=(-367,606) tgt=1849
+00:15:04 iter 491: no ball -> tap#23 (start/next/restart) overlay=0
+00:15:05 iter 492: no ball -> tap#24 (start/next/restart) overlay=0
+00:15:08 iter 499: balls=1 b0=(1465,1002) v=(108,689) tgt=1518
+00:15:12 iter 505: balls=1 b0=(404,283) v=(92,-441) tgt=744
+00:15:12 iter 505: no ball -> tap#25 (start/next/restart) overlay=0
+00:15:13 iter 506: no ball -> tap#26 (start/next/restart) overlay=0
+00:15:15 iter 508: no ball -> tap#27 (start/next/restart) overlay=0
+00:15:16 iter 511: no ball -> tap#28 (start/next/restart) overlay=0
+00:15:18 iter 513: no ball -> tap#29 (start/next/restart) overlay=0
+00:15:20 iter 515: no ball -> tap#30 (start/next/restart) overlay=0
+00:15:21 iter 516: no ball -> tap#31 (start/next/restart) overlay=0
+00:15:23 iter 519: no ball -> tap#32 (start/next/restart) overlay=0
+00:15:24 iter 521: no ball -> tap#33 (start/next/restart) overlay=0
+00:15:28 iter 523: balls=1 b0=(1729,351) v=(0,0) tgt=1729
+00:15:30 iter 525: no ball -> tap#34 (start/next/restart) overlay=0
+00:15:31 iter 527: no ball -> tap#35 (start/next/restart) overlay=0
+00:15:33 iter 529: balls=1 b0=(2022,365) v=(0,0) tgt=2022
+00:15:34 iter 531: no ball -> tap#36 (start/next/restart) overlay=0
+00:15:36 iter 535: balls=1 b0=(1572,879) v=(-566,387) tgt=902
+00:15:39 iter 541: balls=1 b0=(1197,1087) v=(193,622) tgt=1275
+00:15:40 iter 541: no ball -> tap#37 (start/next/restart) overlay=0
+00:15:43 iter 547: balls=1 b0=(1554,941) v=(20,-686) tgt=1620
+00:15:46 iter 553: balls=1 b0=(1391,559) v=(-380,-582) tgt=345
+00:15:49 iter 559: balls=1 b0=(2018,665) v=(85,-691) tgt=2266
+00:15:50 iter 560: no ball -> tap#38 (start/next/restart) overlay=0
+00:15:53 iter 565: balls=1 b0=(1732,974) v=(-459,-531) tgt=763
+00:15:55 iter 568: no ball -> tap#39 (start/next/restart) overlay=0
+00:15:56 iter 571: balls=1 b0=(2052,799) v=(454,518) tgt=2099
+00:15:59 iter 576: no ball -> tap#40 (start/next/restart) overlay=0
+00:16:06 iter 583: balls=1 b0=(856,695) v=(-371,271) tgt=520
+00:16:09 iter 589: balls=1 b0=(683,1159) v=(109,682) tgt=711
+00:16:12 iter 595: balls=1 b0=(1064,1131) v=(442,496) tgt=1248
+00:16:15 iter 601: balls=1 b0=(1484,538) v=(99,692) tgt=1599
+00:16:18 iter 606: no ball -> tap#41 (start/next/restart) overlay=0
+00:16:22 iter 613: balls=1 b0=(1366,655) v=(-596,-427) tgt=1910
+00:16:25 iter 619: balls=1 b0=(2101,1198) v=(558,383) tgt=2304
+00:16:28 iter 625: balls=1 b0=(796,141) v=(-547,-410) tgt=1669
+00:16:28 iter 625: no ball -> tap#42 (start/next/restart) overlay=0
+00:16:31 iter 631: balls=1 b0=(1530,1167) v=(235,-27) tgt=1530
+00:16:35 iter 637: balls=1 b0=(879,859) v=(-210,661) tgt=727
+00:16:41 iter 643: balls=1 b0=(849,1292) v=(6,467) tgt=850
+00:16:44 iter 649: balls=1 b0=(1370,892) v=(550,403) tgt=1978
+00:16:47 iter 654: no ball -> tap#43 (start/next/restart) overlay=0
+00:16:50 iter 661: balls=1 b0=(994,219) v=(-306,-602) tgt=293
+00:16:51 iter 661: no ball -> tap#44 (start/next/restart) overlay=0
+00:16:52 iter 662: no ball -> tap#45 (start/next/restart) overlay=0
+00:16:54 iter 667: balls=1 b0=(759,1048) v=(204,-378) tgt=2048
+00:16:56 iter 669: no ball -> tap#46 (start/next/restart) overlay=0
+00:16:58 iter 673: balls=2 b0=(1384,1264) v=(217,421) tgt=1422
+00:17:00 iter 677: no ball -> tap#47 (start/next/restart) overlay=0
+00:17:01 iter 679: balls=1 b0=(1807,666) v=(0,0) tgt=1807
+00:17:04 iter 684: no ball -> tap#48 (start/next/restart) overlay=0
+00:17:08 iter 691: balls=14 b0=(1352,662) v=(1432,137) tgt=333
+00:17:14 iter 697: balls=1 b0=(1517,1309) v=(0,0) tgt=1517
+00:17:17 iter 703: balls=1 b0=(1479,1066) v=(505,-454) tgt=469
+00:17:20 iter 709: balls=1 b0=(1627,1164) v=(-247,-34) tgt=1627
+00:17:23 iter 715: balls=1 b0=(1812,587) v=(-55,-685) tgt=1658
+00:17:26 iter 721: balls=1 b0=(2207,348) v=(69,-522) tgt=2194
+00:17:27 iter 721: no ball -> tap#49 (start/next/restart) overlay=0
