@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+app/build/
+.kotlin/
+*.iml
+.idea/
+
+# Local environment / secrets (must never be committed)
+local.properties
+signing.properties
+*.keystore
+*.apksigner
+
+# OS noise
+.DS_Store

@@ -1,0 +1,66 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace 'com.secops.breakout'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.secops.breakout"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+    lint {
+        // Offline shell build: skip lintVital on release to keep the pipeline hermetic.
+        checkReleaseBuilds = false
+    }
+}
+
+// Release signing: read signing.properties if present and its storeFile exists;
+// otherwise skip release signing entirely (unsigned release build) instead of failing.
+def ksFile = rootProject.file('signing.properties')
+def ksProps = new Properties()
+if (ksFile.exists()) {
+    ksProps.load(new FileInputStream(ksFile))
+    def storeFilePath = rootProject.file(ksProps.getProperty('storeFile'))
+    if (storeFilePath.exists()
+            && ksProps.getProperty('storePassword')
+            && ksProps.getProperty('keyAlias')
+            && ksProps.getProperty('keyPassword')) {
+        android.signingConfigs {
+            release {
+                storeFile storeFilePath
+                storePassword ksProps.getProperty('storePassword')
+                keyAlias ksProps.getProperty('keyAlias')
+                keyPassword ksProps.getProperty('keyPassword')
+            }
+        }
+        android.buildTypes.release.signingConfig = android.signingConfigs.release
+        println "INFO: release build will be signed with keystore " + storeFilePath
+    } else {
+        println "WARN: signing.properties present but storeFile/credentials incomplete - building unsigned release"
+    }
+} else {
+    println "INFO: signing.properties not found - building unsigned release"
+}

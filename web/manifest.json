@@ -1,0 +1,14 @@
+{
+  "name": "Breakout 999",
+  "short_name": "Breakout",
+  "description": "Breakout with 999 deterministic levels across 9 archetypes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0b0f1a",
+  "theme_color": "#0b0f1a",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

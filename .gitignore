@@ -1,0 +1,14 @@
+# node / build
+node_modules/
+# android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/signing.properties
+*.keystore
+*.apksigner
+.kotlin/
+# os
+.DS_Store
+# keep .orchestr state tracked
