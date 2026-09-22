@@ -7,6 +7,11 @@
 - **999 关确定性生成**：`mulberry32(seed=n)`，同关卡号永远同布局；生成器内置 flood-fill 可达性自检
 - **9 种原型**：GRID / PYRAMID / TUNNEL / RINGS / SLITS / OBSTACLE / MULTIBALL / BOSS / FRACTAL
 - **命数规则**：开局 3 条命，每通过一关 LIVES +1（本局生效）
+- **v2.0 规则**：
+  - 手动暂停（暂停按钮 / P 键 / Esc），失焦自动暂停
+  - 命耗尽失败 → **留在当前关卡重试**，命重置为 3，本关刷的分数回滚
+  - 通关 999 关（YOU WIN）后重开 → 回第 1 关
+  - 清关后进入下一关倒计时 5 秒（HUD 可见）
 
 ## 玩法规则
 

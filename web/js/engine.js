@@ -42,7 +42,10 @@
     lv: null,
     brickW: 40, brickTop: TOP,
     clearTimer: 0,
-    over: false
+    over: false,
+    win: false,
+    userPaused: false,         // 手动暂停（失焦自动暂停是 paused 变量）
+    levelStartScore: 0         // 本关开始时的分数（失败重试时回滚到此处）
   };
 
   var audio = (typeof global.GameAudio !== 'undefined') ? global.GameAudio : null;
@@ -68,6 +71,7 @@
 
   // ---------- level setup ----------
   function loadLevel(n) {
+    S.levelStartScore = S.score;   // 记录本关开始分数（失败重试回滚点）
     n = clamp(Math.floor(n), 1, LG ? LG.MAX_LEVEL : 999);
     var lv = LG ? LG.levelFromSeed(n) : null;
     S.lv = lv;
@@ -337,7 +341,7 @@
   function levelClear() {
     S.state = 'levelclear';
     S.score += 100;
-    S.clearTimer = 1.2;
+    S.clearTimer = 5.0;    // 清关后 5 秒倒计时再进下一关
     if (store) {
       if (S.level + 1 > S.maxLevel) { S.maxLevel = S.level + 1; store.setProgress(S.maxLevel); }
       if (S.score > S.highScore) { S.highScore = S.score; store.setHighScore(S.highScore); }
@@ -355,10 +359,13 @@
   // ---------- state machine ----------
   function start() {
     if (store) { S.highScore = store.getHighScore(); S.maxLevel = store.getProgress().maxLevel; }
-    S.score = 0; S.lives = 3; S.over = false;
+    var retry = S.over && !S.win;   // 失败重试：留在当前关卡，不回第 1 关
+    S.score = retry ? S.levelStartScore : 0;  // 重试时本关刷的分作废
+    S.lives = 3;                    // 命数重置为初始值 3
+    S.over = false; S.win = false; S.userPaused = false;
     S._paddleHits = 0;
     S._stuck = 0; S._escN = 0; S._lastBricks = null;
-    S.level = S.testMode ? (S._startLevel || 1) : 1;
+    if (!retry) S.level = S.testMode ? (S._startLevel || 1) : 1;
     S.state = 'playing';
     loadLevel(S.level);
     if (audio) audio.init();
@@ -377,7 +384,7 @@
   }
 
   function reset() {
-    S.state = 'title'; S.score = 0; S.lives = 3; S.level = 1; S.over = false; S.win = false;
+    S.state = 'title'; S.score = 0; S.lives = 3; S.level = 1; S.over = false; S.win = false; S.userPaused = false;
     S.balls = [];
   }
 
@@ -463,11 +470,26 @@
     ctx.textAlign = 'right';
     ctx.fillText('LIVES ' + S.lives + '   HI ' + S.highScore, LW - SIDE - 6, 10);
 
+    // 暂停按钮（右上角落，避开 LIVES 文本上方区域：画在 HUD 行下方一点）
+    var PB = { x: LW - SIDE - 22, y: 32, w: 22, h: 22 };
+    ctx.fillStyle = 'rgba(92,200,255,0.25)';
+    rr(ctx, PB.x, PB.y, PB.w, PB.h, 5); ctx.fill();
+    ctx.fillStyle = '#5cc8ff'; ctx.font = 'bold 14px system-ui, sans-serif';
+    ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    ctx.fillText(S.userPaused ? '▶' : 'II', PB.x + PB.w / 2, PB.y + PB.h / 2 + 1);
+    ctx.textBaseline = 'top';
+
     // overlays
     ctx.textAlign = 'center';
     if (S.state === 'title') overlay('BREAKOUT 999', 'Tap / Space to start', 28);
-    else if (S.state === 'levelclear') overlay('LEVEL CLEAR', 'Next: ' + (S.level + 1), 26);
-    else if (S.state === 'gameover') overlay(S.win ? 'YOU WIN!' : 'GAME OVER', 'Score ' + S.score + '  -  Tap / Space to restart', 30);
+    else if (S.state === 'levelclear') overlay('LEVEL CLEAR', 'Next in ' + Math.ceil(S.clearTimer) + '  -  ' + (S.level + 1), 26);
+    else if (S.state === 'gameover') {
+      if (S.win) overlay('YOU WIN!', 'Score ' + S.score + '  -  Tap / Space to play again', 30);
+      else overlay('GAME OVER', 'Retry level ' + S.level + ' (lives reset to 3)  -  Tap / Space', 26);
+    }
+    if (S.userPaused && (S.state === 'playing' || S.state === 'levelclear')) {
+      overlay('PAUSED', 'Tap  II  or press P to resume', 30);
+    }
   }
 
   function overlay(title, sub, size) {
@@ -491,9 +513,13 @@
     last = ts;
     if (!isFinite(dt) || dt < 0) dt = 0;
     if (dt > 0.1) dt = 0.1;            // clamp to avoid spiral of death
-    acc += dt;
-    var maxSteps = 5;
-    while (acc >= DT && maxSteps-- > 0) { tick(DT); acc -= DT; }
+    if (!paused && !S.userPaused) {
+      acc += dt;
+      var maxSteps = 5;
+      while (acc >= DT && maxSteps-- > 0) { tick(DT); acc -= DT; }
+    } else {
+      acc = 0;   // 暂停期间不累积时间，恢复时无追帧
+    }
     render();
   }
 
@@ -526,7 +552,7 @@
   function getState() {
     return {
       level: S.level, score: S.score, lives: S.lives, highScore: S.highScore,
-      state: S.state, win: !!S.win,
+      state: S.state, win: !!S.win, userPaused: !!S.userPaused,
       bricksRemaining: countDestructible(),
       ballCount: S.balls.length,
       balls: S.balls.map(function (b) { return { x: Math.round(b.x), y: Math.round(b.y), vx: Math.round(b.vx), vy: Math.round(b.vy) }; }),
@@ -547,6 +573,8 @@
         if (k === 'ArrowLeft' || k === 'a' || k === 'A') keys.left = true;
         else if (k === 'ArrowRight' || k === 'd' || k === 'D') keys.right = true;
         else if (k === ' ' || k === 'Enter') { if (S.state === 'title' || S.state === 'gameover') { S._startLevel = S.level; start(); } e.preventDefault(); }
+        else if (k === 'p' || k === 'P') { if (S.state === 'playing' || S.state === 'levelclear') S.userPaused = !S.userPaused; e.preventDefault(); }
+        else if (k === 'Escape') { if (S.state === 'playing' || S.state === 'levelclear') S.userPaused = !S.userPaused; }
         else return;
         e.preventDefault();
       });
@@ -560,21 +588,36 @@
     if (global.document) {
       document.addEventListener('visibilitychange', onVisibility);
       // touch
+      var PB = { x: LW - SIDE - 22, y: 32, w: 22, h: 22 };   // 与渲染同坐标
+      var PAD = 6;   // 触控放大命中区
       canvas.addEventListener('touchstart', function (e) {
         e.preventDefault();
-        if (S.state === 'title' || S.state === 'gameover') { start(); return; }
         var t = e.touches[0]; var p = screenToLogical(t.clientX, t.clientY);
+        if (p.x >= PB.x - PAD && p.x <= PB.x + PB.w + PAD && p.y >= PB.y - PAD && p.y <= PB.y + PB.h + PAD) {
+          if (S.state === 'playing' || S.state === 'levelclear') S.userPaused = !S.userPaused;
+          return;
+        }
+        if (S.userPaused) return;   // 暂停中忽略其余触摸
+        if (S.state === 'title' || S.state === 'gameover') { start(); return; }
         pointerActive = true; pointerX = p.x;
       }, { passive: false });
       canvas.addEventListener('touchmove', function (e) {
         e.preventDefault();
+        if (S.userPaused) return;
         var t = e.touches[0]; var p = screenToLogical(t.clientX, t.clientY);
         pointerActive = true; pointerX = p.x;
       }, { passive: false });
       canvas.addEventListener('touchend', function () { pointerActive = false; }, { passive: false });
       // mouse
       canvas.addEventListener('mousemove', function (e) { var p = screenToLogical(e.clientX, e.clientY); pointerActive = true; pointerX = p.x; });
-      canvas.addEventListener('click', function () { if (S.state === 'title' || S.state === 'gameover') start(); });
+      canvas.addEventListener('click', function (e) {
+        var p = screenToLogical(e.clientX, e.clientY);
+        if (p.x >= PB.x - PAD && p.x <= PB.x + PB.w + PAD && p.y >= PB.y - PAD && p.y <= PB.y + PB.h + PAD) {
+          if (S.state === 'playing' || S.state === 'levelclear') S.userPaused = !S.userPaused;
+          return;
+        }
+        if (S.state === 'title' || S.state === 'gameover') start();
+      });
     }
     resize();
     return true;
