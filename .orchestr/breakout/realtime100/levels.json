@@ -1,0 +1,1318 @@
+{
+ "status": "done",
+ "reason": "",
+ "maxLevelEntered": 101,
+ "clearedCount": 100,
+ "cleared": [
+  {
+   "cleared_level": 1,
+   "evidence": "entered level 2",
+   "shot": "level_002.png",
+   "score_at_next": 500,
+   "t_min": 1.04
+  },
+  {
+   "cleared_level": 2,
+   "evidence": "entered level 3",
+   "shot": "level_003.png",
+   "score_at_next": 1000,
+   "t_min": 3.37
+  },
+  {
+   "cleared_level": 3,
+   "evidence": "entered level 4",
+   "shot": "level_004.png",
+   "score_at_next": 1500,
+   "t_min": 5.21
+  },
+  {
+   "cleared_level": 4,
+   "evidence": "entered level 5",
+   "shot": "level_005.png",
+   "score_at_next": 2000,
+   "t_min": 7.53
+  },
+  {
+   "cleared_level": 5,
+   "evidence": "entered level 6",
+   "shot": "level_006.png",
+   "score_at_next": 2500,
+   "t_min": 9.44
+  },
+  {
+   "cleared_level": 6,
+   "evidence": "entered level 7",
+   "shot": "level_007.png",
+   "score_at_next": 3000,
+   "t_min": 11.77
+  },
+  {
+   "cleared_level": 7,
+   "evidence": "entered level 8",
+   "shot": "level_008.png",
+   "score_at_next": 3500,
+   "t_min": 13.62
+  },
+  {
+   "cleared_level": 8,
+   "evidence": "entered level 9",
+   "shot": "level_009.png",
+   "score_at_next": 4000,
+   "t_min": 16.98
+  },
+  {
+   "cleared_level": 9,
+   "evidence": "entered level 10",
+   "shot": "level_010.png",
+   "score_at_next": 4500,
+   "t_min": 20.22
+  },
+  {
+   "cleared_level": 10,
+   "evidence": "entered level 11",
+   "shot": "level_011.png",
+   "score_at_next": 5000,
+   "t_min": 22.56
+  },
+  {
+   "cleared_level": 11,
+   "evidence": "entered level 12",
+   "shot": "level_012.png",
+   "score_at_next": 5500,
+   "t_min": 26.46
+  },
+  {
+   "cleared_level": 12,
+   "evidence": "entered level 13",
+   "shot": "level_013.png",
+   "score_at_next": 6000,
+   "t_min": 28.26
+  },
+  {
+   "cleared_level": 13,
+   "evidence": "entered level 14",
+   "shot": "level_014.png",
+   "score_at_next": 6500,
+   "t_min": 30.49
+  },
+  {
+   "cleared_level": 14,
+   "evidence": "entered level 15",
+   "shot": "level_015.png",
+   "score_at_next": 7000,
+   "t_min": 33.35
+  },
+  {
+   "cleared_level": 15,
+   "evidence": "entered level 16",
+   "shot": "level_016.png",
+   "score_at_next": 7500,
+   "t_min": 36.55
+  },
+  {
+   "cleared_level": 16,
+   "evidence": "entered level 17",
+   "shot": "level_017.png",
+   "score_at_next": 7770,
+   "t_min": 39.0
+  },
+  {
+   "cleared_level": 17,
+   "evidence": "entered level 18",
+   "shot": "level_018.png",
+   "score_at_next": 8040,
+   "t_min": 41.39
+  },
+  {
+   "cleared_level": 18,
+   "evidence": "entered level 19",
+   "shot": "level_019.png",
+   "score_at_next": 8310,
+   "t_min": 43.7
+  },
+  {
+   "cleared_level": 19,
+   "evidence": "entered level 20",
+   "shot": "level_020.png",
+   "score_at_next": 8580,
+   "t_min": 45.06
+  },
+  {
+   "cleared_level": 20,
+   "evidence": "entered level 21",
+   "shot": "level_021.png",
+   "score_at_next": 8850,
+   "t_min": 47.48
+  },
+  {
+   "cleared_level": 21,
+   "evidence": "entered level 22",
+   "shot": "level_022.png",
+   "score_at_next": 9120,
+   "t_min": 49.0
+  },
+  {
+   "cleared_level": 22,
+   "evidence": "entered level 23",
+   "shot": "level_023.png",
+   "score_at_next": 9390,
+   "t_min": 51.36
+  },
+  {
+   "cleared_level": 23,
+   "evidence": "entered level 24",
+   "shot": "level_024.png",
+   "score_at_next": 9660,
+   "t_min": 53.37
+  },
+  {
+   "cleared_level": 24,
+   "evidence": "entered level 25",
+   "shot": "level_025.png",
+   "score_at_next": 9930,
+   "t_min": 55.14
+  },
+  {
+   "cleared_level": 25,
+   "evidence": "entered level 26",
+   "shot": "level_026.png",
+   "score_at_next": 10200,
+   "t_min": 56.65
+  },
+  {
+   "cleared_level": 26,
+   "evidence": "entered level 27",
+   "shot": "level_027.png",
+   "score_at_next": 10470,
+   "t_min": 58.3
+  },
+  {
+   "cleared_level": 27,
+   "evidence": "entered level 28",
+   "shot": "level_028.png",
+   "score_at_next": 10740,
+   "t_min": 61.27
+  },
+  {
+   "cleared_level": 28,
+   "evidence": "entered level 29",
+   "shot": "level_029.png",
+   "score_at_next": 11010,
+   "t_min": 62.97
+  },
+  {
+   "cleared_level": 29,
+   "evidence": "entered level 30",
+   "shot": "level_030.png",
+   "score_at_next": 11280,
+   "t_min": 65.15
+  },
+  {
+   "cleared_level": 30,
+   "evidence": "entered level 31",
+   "shot": "level_031.png",
+   "score_at_next": 11550,
+   "t_min": 67.62
+  },
+  {
+   "cleared_level": 31,
+   "evidence": "entered level 32",
+   "shot": "level_032.png",
+   "score_at_next": 11900,
+   "t_min": 69.35
+  },
+  {
+   "cleared_level": 32,
+   "evidence": "entered level 33",
+   "shot": "level_033.png",
+   "score_at_next": 12250,
+   "t_min": 70.99
+  },
+  {
+   "cleared_level": 33,
+   "evidence": "entered level 34",
+   "shot": "level_034.png",
+   "score_at_next": 12600,
+   "t_min": 72.79
+  },
+  {
+   "cleared_level": 34,
+   "evidence": "entered level 35",
+   "shot": "level_035.png",
+   "score_at_next": 12950,
+   "t_min": 74.0
+  },
+  {
+   "cleared_level": 35,
+   "evidence": "entered level 36",
+   "shot": "level_036.png",
+   "score_at_next": 13300,
+   "t_min": 75.81
+  },
+  {
+   "cleared_level": 36,
+   "evidence": "entered level 37",
+   "shot": "level_037.png",
+   "score_at_next": 13650,
+   "t_min": 77.08
+  },
+  {
+   "cleared_level": 37,
+   "evidence": "entered level 38",
+   "shot": "level_038.png",
+   "score_at_next": 14000,
+   "t_min": 78.8
+  },
+  {
+   "cleared_level": 38,
+   "evidence": "entered level 39",
+   "shot": "level_039.png",
+   "score_at_next": 14350,
+   "t_min": 80.67
+  },
+  {
+   "cleared_level": 39,
+   "evidence": "entered level 40",
+   "shot": "level_040.png",
+   "score_at_next": 14700,
+   "t_min": 82.33
+  },
+  {
+   "cleared_level": 40,
+   "evidence": "entered level 41",
+   "shot": "level_041.png",
+   "score_at_next": 15050,
+   "t_min": 84.15
+  },
+  {
+   "cleared_level": 41,
+   "evidence": "entered level 42",
+   "shot": "level_042.png",
+   "score_at_next": 15400,
+   "t_min": 85.54
+  },
+  {
+   "cleared_level": 42,
+   "evidence": "entered level 43",
+   "shot": "level_043.png",
+   "score_at_next": 15750,
+   "t_min": 87.51
+  },
+  {
+   "cleared_level": 43,
+   "evidence": "entered level 44",
+   "shot": "level_044.png",
+   "score_at_next": 16100,
+   "t_min": 89.21
+  },
+  {
+   "cleared_level": 44,
+   "evidence": "entered level 45",
+   "shot": "level_045.png",
+   "score_at_next": 16450,
+   "t_min": 92.51
+  },
+  {
+   "cleared_level": 45,
+   "evidence": "entered level 46",
+   "shot": "level_046.png",
+   "score_at_next": 16800,
+   "t_min": 94.22
+  },
+  {
+   "cleared_level": 46,
+   "evidence": "entered level 47",
+   "shot": "level_047.png",
+   "score_at_next": 17180,
+   "t_min": 95.92
+  },
+  {
+   "cleared_level": 47,
+   "evidence": "entered level 48",
+   "shot": "level_048.png",
+   "score_at_next": 17560,
+   "t_min": 98.46
+  },
+  {
+   "cleared_level": 48,
+   "evidence": "entered level 49",
+   "shot": "level_049.png",
+   "score_at_next": 17940,
+   "t_min": 100.22
+  },
+  {
+   "cleared_level": 49,
+   "evidence": "entered level 50",
+   "shot": "level_050.png",
+   "score_at_next": 18320,
+   "t_min": 102.3
+  },
+  {
+   "cleared_level": 50,
+   "evidence": "entered level 51",
+   "shot": "level_051.png",
+   "score_at_next": 18700,
+   "t_min": 104.02
+  },
+  {
+   "cleared_level": 51,
+   "evidence": "entered level 52",
+   "shot": "level_052.png",
+   "score_at_next": 19080,
+   "t_min": 105.33
+  },
+  {
+   "cleared_level": 52,
+   "evidence": "entered level 53",
+   "shot": "level_053.png",
+   "score_at_next": 19460,
+   "t_min": 107.47
+  },
+  {
+   "cleared_level": 53,
+   "evidence": "entered level 54",
+   "shot": "level_054.png",
+   "score_at_next": 19840,
+   "t_min": 109.51
+  },
+  {
+   "cleared_level": 54,
+   "evidence": "entered level 55",
+   "shot": "level_055.png",
+   "score_at_next": 20220,
+   "t_min": 111.36
+  },
+  {
+   "cleared_level": 55,
+   "evidence": "entered level 56",
+   "shot": "level_056.png",
+   "score_at_next": 20600,
+   "t_min": 113.14
+  },
+  {
+   "cleared_level": 56,
+   "evidence": "entered level 57",
+   "shot": "level_057.png",
+   "score_at_next": 20980,
+   "t_min": 115.35
+  },
+  {
+   "cleared_level": 57,
+   "evidence": "entered level 58",
+   "shot": "level_058.png",
+   "score_at_next": 21360,
+   "t_min": 117.73
+  },
+  {
+   "cleared_level": 58,
+   "evidence": "entered level 59",
+   "shot": "level_059.png",
+   "score_at_next": 21740,
+   "t_min": 120.11
+  },
+  {
+   "cleared_level": 59,
+   "evidence": "entered level 60",
+   "shot": "level_060.png",
+   "score_at_next": 22120,
+   "t_min": 122.89
+  },
+  {
+   "cleared_level": 60,
+   "evidence": "entered level 61",
+   "shot": "level_061.png",
+   "score_at_next": 22500,
+   "t_min": 124.73
+  },
+  {
+   "cleared_level": 61,
+   "evidence": "entered level 62",
+   "shot": "level_062.png",
+   "score_at_next": 22830,
+   "t_min": 126.03
+  },
+  {
+   "cleared_level": 62,
+   "evidence": "entered level 63",
+   "shot": "level_063.png",
+   "score_at_next": 23160,
+   "t_min": 127.44
+  },
+  {
+   "cleared_level": 63,
+   "evidence": "entered level 64",
+   "shot": "level_064.png",
+   "score_at_next": 23490,
+   "t_min": 128.54
+  },
+  {
+   "cleared_level": 64,
+   "evidence": "entered level 65",
+   "shot": "level_065.png",
+   "score_at_next": 23820,
+   "t_min": 130.36
+  },
+  {
+   "cleared_level": 65,
+   "evidence": "entered level 66",
+   "shot": "level_066.png",
+   "score_at_next": 24150,
+   "t_min": 131.6
+  },
+  {
+   "cleared_level": 66,
+   "evidence": "entered level 67",
+   "shot": "level_067.png",
+   "score_at_next": 24480,
+   "t_min": 134.92
+  },
+  {
+   "cleared_level": 67,
+   "evidence": "entered level 68",
+   "shot": "level_068.png",
+   "score_at_next": 24810,
+   "t_min": 136.99
+  },
+  {
+   "cleared_level": 68,
+   "evidence": "entered level 69",
+   "shot": "level_069.png",
+   "score_at_next": 25140,
+   "t_min": 139.41
+  },
+  {
+   "cleared_level": 69,
+   "evidence": "entered level 70",
+   "shot": "level_070.png",
+   "score_at_next": 25470,
+   "t_min": 141.14
+  },
+  {
+   "cleared_level": 70,
+   "evidence": "entered level 71",
+   "shot": "level_071.png",
+   "score_at_next": 25800,
+   "t_min": 142.91
+  },
+  {
+   "cleared_level": 71,
+   "evidence": "entered level 72",
+   "shot": "level_072.png",
+   "score_at_next": 26130,
+   "t_min": 143.54
+  },
+  {
+   "cleared_level": 72,
+   "evidence": "entered level 73",
+   "shot": "level_073.png",
+   "score_at_next": 26460,
+   "t_min": 145.2
+  },
+  {
+   "cleared_level": 73,
+   "evidence": "entered level 74",
+   "shot": "level_074.png",
+   "score_at_next": 26790,
+   "t_min": 146.5
+  },
+  {
+   "cleared_level": 74,
+   "evidence": "entered level 75",
+   "shot": "level_075.png",
+   "score_at_next": 27120,
+   "t_min": 148.02
+  },
+  {
+   "cleared_level": 75,
+   "evidence": "entered level 76",
+   "shot": "level_076.png",
+   "score_at_next": 27440,
+   "t_min": 148.77
+  },
+  {
+   "cleared_level": 76,
+   "evidence": "entered level 77",
+   "shot": "level_077.png",
+   "score_at_next": 27910,
+   "t_min": 150.62
+  },
+  {
+   "cleared_level": 77,
+   "evidence": "entered level 78",
+   "shot": "level_078.png",
+   "score_at_next": 28380,
+   "t_min": 153.5
+  },
+  {
+   "cleared_level": 78,
+   "evidence": "entered level 79",
+   "shot": "level_079.png",
+   "score_at_next": 28850,
+   "t_min": 156.79
+  },
+  {
+   "cleared_level": 79,
+   "evidence": "entered level 80",
+   "shot": "level_080.png",
+   "score_at_next": 29320,
+   "t_min": 159.41
+  },
+  {
+   "cleared_level": 80,
+   "evidence": "entered level 81",
+   "shot": "level_081.png",
+   "score_at_next": 29790,
+   "t_min": 161.78
+  },
+  {
+   "cleared_level": 81,
+   "evidence": "entered level 82",
+   "shot": "level_082.png",
+   "score_at_next": 30260,
+   "t_min": 163.57
+  },
+  {
+   "cleared_level": 82,
+   "evidence": "entered level 83",
+   "shot": "level_083.png",
+   "score_at_next": 30730,
+   "t_min": 166.03
+  },
+  {
+   "cleared_level": 83,
+   "evidence": "entered level 84",
+   "shot": "level_084.png",
+   "score_at_next": 31200,
+   "t_min": 167.62
+  },
+  {
+   "cleared_level": 84,
+   "evidence": "entered level 85",
+   "shot": "level_085.png",
+   "score_at_next": 31660,
+   "t_min": 170.32
+  },
+  {
+   "cleared_level": 85,
+   "evidence": "entered level 86",
+   "shot": "level_086.png",
+   "score_at_next": 32120,
+   "t_min": 174.0
+  },
+  {
+   "cleared_level": 86,
+   "evidence": "entered level 87",
+   "shot": "level_087.png",
+   "score_at_next": 32580,
+   "t_min": 176.71
+  },
+  {
+   "cleared_level": 87,
+   "evidence": "entered level 88",
+   "shot": "level_088.png",
+   "score_at_next": 33040,
+   "t_min": 178.59
+  },
+  {
+   "cleared_level": 88,
+   "evidence": "entered level 89",
+   "shot": "level_089.png",
+   "score_at_next": 33500,
+   "t_min": 180.12
+  },
+  {
+   "cleared_level": 89,
+   "evidence": "entered level 90",
+   "shot": "level_090.png",
+   "score_at_next": 33960,
+   "t_min": 183.63
+  },
+  {
+   "cleared_level": 90,
+   "evidence": "entered level 91",
+   "shot": "level_091.png",
+   "score_at_next": 34420,
+   "t_min": 186.89
+  },
+  {
+   "cleared_level": 91,
+   "evidence": "entered level 92",
+   "shot": "level_092.png",
+   "score_at_next": 34800,
+   "t_min": 189.67
+  },
+  {
+   "cleared_level": 92,
+   "evidence": "entered level 93",
+   "shot": "level_093.png",
+   "score_at_next": 35180,
+   "t_min": 191.9
+  },
+  {
+   "cleared_level": 93,
+   "evidence": "entered level 94",
+   "shot": "level_094.png",
+   "score_at_next": 35550,
+   "t_min": 194.21
+  },
+  {
+   "cleared_level": 94,
+   "evidence": "entered level 95",
+   "shot": "level_095.png",
+   "score_at_next": 35930,
+   "t_min": 197.08
+  },
+  {
+   "cleared_level": 95,
+   "evidence": "entered level 96",
+   "shot": "level_096.png",
+   "score_at_next": 36330,
+   "t_min": 198.67
+  },
+  {
+   "cleared_level": 96,
+   "evidence": "entered level 97",
+   "shot": "level_097.png",
+   "score_at_next": 36700,
+   "t_min": 200.53
+  },
+  {
+   "cleared_level": 97,
+   "evidence": "entered level 98",
+   "shot": "level_098.png",
+   "score_at_next": 37090,
+   "t_min": 202.08
+  },
+  {
+   "cleared_level": 98,
+   "evidence": "entered level 99",
+   "shot": "level_099.png",
+   "score_at_next": 37480,
+   "t_min": 204.5
+  },
+  {
+   "cleared_level": 99,
+   "evidence": "entered level 100",
+   "shot": "level_100.png",
+   "score_at_next": 37830,
+   "t_min": 206.07
+  },
+  {
+   "cleared_level": 100,
+   "evidence": "entered level 101",
+   "shot": "level_101.png",
+   "score_at_next": 38210,
+   "t_min": 207.76
+  }
+ ],
+ "enterLog": {
+  "1": {
+   "type": 1,
+   "score": 310,
+   "lives": 3,
+   "t_min": 0.0
+  },
+  "2": {
+   "type": 1,
+   "score": 500,
+   "lives": 4,
+   "t_min": 1.04
+  },
+  "3": {
+   "type": 1,
+   "score": 1000,
+   "lives": 5,
+   "t_min": 3.37
+  },
+  "4": {
+   "type": 1,
+   "score": 1500,
+   "lives": 6,
+   "t_min": 5.21
+  },
+  "5": {
+   "type": 1,
+   "score": 2000,
+   "lives": 7,
+   "t_min": 7.53
+  },
+  "6": {
+   "type": 1,
+   "score": 2500,
+   "lives": 8,
+   "t_min": 9.44
+  },
+  "7": {
+   "type": 1,
+   "score": 3000,
+   "lives": 9,
+   "t_min": 11.77
+  },
+  "8": {
+   "type": 1,
+   "score": 3500,
+   "lives": 10,
+   "t_min": 13.62
+  },
+  "9": {
+   "type": 1,
+   "score": 4000,
+   "lives": 11,
+   "t_min": 16.98
+  },
+  "10": {
+   "type": 1,
+   "score": 4500,
+   "lives": 12,
+   "t_min": 20.22
+  },
+  "11": {
+   "type": 1,
+   "score": 5000,
+   "lives": 13,
+   "t_min": 22.56
+  },
+  "12": {
+   "type": 1,
+   "score": 5500,
+   "lives": 14,
+   "t_min": 26.46
+  },
+  "13": {
+   "type": 1,
+   "score": 6000,
+   "lives": 15,
+   "t_min": 28.26
+  },
+  "14": {
+   "type": 1,
+   "score": 6500,
+   "lives": 16,
+   "t_min": 30.49
+  },
+  "15": {
+   "type": 1,
+   "score": 7000,
+   "lives": 17,
+   "t_min": 33.35
+  },
+  "16": {
+   "type": 2,
+   "score": 7500,
+   "lives": 18,
+   "t_min": 36.55
+  },
+  "17": {
+   "type": 2,
+   "score": 7770,
+   "lives": 19,
+   "t_min": 39.0
+  },
+  "18": {
+   "type": 2,
+   "score": 8040,
+   "lives": 20,
+   "t_min": 41.39
+  },
+  "19": {
+   "type": 2,
+   "score": 8310,
+   "lives": 21,
+   "t_min": 43.7
+  },
+  "20": {
+   "type": 2,
+   "score": 8580,
+   "lives": 22,
+   "t_min": 45.06
+  },
+  "21": {
+   "type": 2,
+   "score": 8850,
+   "lives": 23,
+   "t_min": 47.48
+  },
+  "22": {
+   "type": 2,
+   "score": 9120,
+   "lives": 24,
+   "t_min": 49.0
+  },
+  "23": {
+   "type": 2,
+   "score": 9390,
+   "lives": 25,
+   "t_min": 51.36
+  },
+  "24": {
+   "type": 2,
+   "score": 9660,
+   "lives": 26,
+   "t_min": 53.37
+  },
+  "25": {
+   "type": 2,
+   "score": 9930,
+   "lives": 27,
+   "t_min": 55.14
+  },
+  "26": {
+   "type": 2,
+   "score": 10200,
+   "lives": 28,
+   "t_min": 56.65
+  },
+  "27": {
+   "type": 2,
+   "score": 10470,
+   "lives": 29,
+   "t_min": 58.3
+  },
+  "28": {
+   "type": 2,
+   "score": 10740,
+   "lives": 30,
+   "t_min": 61.27
+  },
+  "29": {
+   "type": 2,
+   "score": 11010,
+   "lives": 31,
+   "t_min": 62.97
+  },
+  "30": {
+   "type": 2,
+   "score": 11280,
+   "lives": 32,
+   "t_min": 65.15
+  },
+  "31": {
+   "type": 3,
+   "score": 11550,
+   "lives": 33,
+   "t_min": 67.62
+  },
+  "32": {
+   "type": 3,
+   "score": 11900,
+   "lives": 34,
+   "t_min": 69.35
+  },
+  "33": {
+   "type": 3,
+   "score": 12250,
+   "lives": 35,
+   "t_min": 70.99
+  },
+  "34": {
+   "type": 3,
+   "score": 12600,
+   "lives": 36,
+   "t_min": 72.79
+  },
+  "35": {
+   "type": 3,
+   "score": 12950,
+   "lives": 37,
+   "t_min": 74.0
+  },
+  "36": {
+   "type": 3,
+   "score": 13300,
+   "lives": 38,
+   "t_min": 75.81
+  },
+  "37": {
+   "type": 3,
+   "score": 13650,
+   "lives": 39,
+   "t_min": 77.08
+  },
+  "38": {
+   "type": 3,
+   "score": 14000,
+   "lives": 40,
+   "t_min": 78.8
+  },
+  "39": {
+   "type": 3,
+   "score": 14350,
+   "lives": 41,
+   "t_min": 80.67
+  },
+  "40": {
+   "type": 3,
+   "score": 14700,
+   "lives": 42,
+   "t_min": 82.33
+  },
+  "41": {
+   "type": 3,
+   "score": 15050,
+   "lives": 43,
+   "t_min": 84.15
+  },
+  "42": {
+   "type": 3,
+   "score": 15400,
+   "lives": 44,
+   "t_min": 85.54
+  },
+  "43": {
+   "type": 3,
+   "score": 15750,
+   "lives": 45,
+   "t_min": 87.51
+  },
+  "44": {
+   "type": 3,
+   "score": 16100,
+   "lives": 46,
+   "t_min": 89.21
+  },
+  "45": {
+   "type": 3,
+   "score": 16450,
+   "lives": 47,
+   "t_min": 92.51
+  },
+  "46": {
+   "type": 4,
+   "score": 16800,
+   "lives": 48,
+   "t_min": 94.22
+  },
+  "47": {
+   "type": 4,
+   "score": 17180,
+   "lives": 49,
+   "t_min": 95.92
+  },
+  "48": {
+   "type": 4,
+   "score": 17560,
+   "lives": 50,
+   "t_min": 98.46
+  },
+  "49": {
+   "type": 4,
+   "score": 17940,
+   "lives": 51,
+   "t_min": 100.22
+  },
+  "50": {
+   "type": 4,
+   "score": 18320,
+   "lives": 52,
+   "t_min": 102.3
+  },
+  "51": {
+   "type": 4,
+   "score": 18700,
+   "lives": 53,
+   "t_min": 104.02
+  },
+  "52": {
+   "type": 4,
+   "score": 19080,
+   "lives": 54,
+   "t_min": 105.33
+  },
+  "53": {
+   "type": 4,
+   "score": 19460,
+   "lives": 55,
+   "t_min": 107.47
+  },
+  "54": {
+   "type": 4,
+   "score": 19840,
+   "lives": 56,
+   "t_min": 109.51
+  },
+  "55": {
+   "type": 4,
+   "score": 20220,
+   "lives": 57,
+   "t_min": 111.36
+  },
+  "56": {
+   "type": 4,
+   "score": 20600,
+   "lives": 58,
+   "t_min": 113.14
+  },
+  "57": {
+   "type": 4,
+   "score": 20980,
+   "lives": 59,
+   "t_min": 115.35
+  },
+  "58": {
+   "type": 4,
+   "score": 21360,
+   "lives": 60,
+   "t_min": 117.73
+  },
+  "59": {
+   "type": 4,
+   "score": 21740,
+   "lives": 61,
+   "t_min": 120.11
+  },
+  "60": {
+   "type": 4,
+   "score": 22120,
+   "lives": 62,
+   "t_min": 122.89
+  },
+  "61": {
+   "type": 5,
+   "score": 22500,
+   "lives": 63,
+   "t_min": 124.73
+  },
+  "62": {
+   "type": 5,
+   "score": 22830,
+   "lives": 64,
+   "t_min": 126.03
+  },
+  "63": {
+   "type": 5,
+   "score": 23160,
+   "lives": 65,
+   "t_min": 127.44
+  },
+  "64": {
+   "type": 5,
+   "score": 23490,
+   "lives": 66,
+   "t_min": 128.54
+  },
+  "65": {
+   "type": 5,
+   "score": 23820,
+   "lives": 67,
+   "t_min": 130.36
+  },
+  "66": {
+   "type": 5,
+   "score": 24150,
+   "lives": 68,
+   "t_min": 131.6
+  },
+  "67": {
+   "type": 5,
+   "score": 24480,
+   "lives": 69,
+   "t_min": 134.92
+  },
+  "68": {
+   "type": 5,
+   "score": 24810,
+   "lives": 70,
+   "t_min": 136.99
+  },
+  "69": {
+   "type": 5,
+   "score": 25140,
+   "lives": 71,
+   "t_min": 139.41
+  },
+  "70": {
+   "type": 5,
+   "score": 25470,
+   "lives": 72,
+   "t_min": 141.14
+  },
+  "71": {
+   "type": 5,
+   "score": 25800,
+   "lives": 73,
+   "t_min": 142.91
+  },
+  "72": {
+   "type": 5,
+   "score": 26130,
+   "lives": 74,
+   "t_min": 143.54
+  },
+  "73": {
+   "type": 5,
+   "score": 26460,
+   "lives": 75,
+   "t_min": 145.2
+  },
+  "74": {
+   "type": 5,
+   "score": 26790,
+   "lives": 76,
+   "t_min": 146.5
+  },
+  "75": {
+   "type": 5,
+   "score": 27120,
+   "lives": 77,
+   "t_min": 148.02
+  },
+  "76": {
+   "type": 6,
+   "score": 27440,
+   "lives": 78,
+   "t_min": 148.77
+  },
+  "77": {
+   "type": 6,
+   "score": 27910,
+   "lives": 79,
+   "t_min": 150.62
+  },
+  "78": {
+   "type": 6,
+   "score": 28380,
+   "lives": 80,
+   "t_min": 153.5
+  },
+  "79": {
+   "type": 6,
+   "score": 28850,
+   "lives": 81,
+   "t_min": 156.79
+  },
+  "80": {
+   "type": 6,
+   "score": 29320,
+   "lives": 82,
+   "t_min": 159.41
+  },
+  "81": {
+   "type": 6,
+   "score": 29790,
+   "lives": 83,
+   "t_min": 161.78
+  },
+  "82": {
+   "type": 6,
+   "score": 30260,
+   "lives": 84,
+   "t_min": 163.57
+  },
+  "83": {
+   "type": 6,
+   "score": 30730,
+   "lives": 85,
+   "t_min": 166.03
+  },
+  "84": {
+   "type": 6,
+   "score": 31200,
+   "lives": 86,
+   "t_min": 167.62
+  },
+  "85": {
+   "type": 6,
+   "score": 31660,
+   "lives": 87,
+   "t_min": 170.32
+  },
+  "86": {
+   "type": 6,
+   "score": 32120,
+   "lives": 88,
+   "t_min": 174.0
+  },
+  "87": {
+   "type": 6,
+   "score": 32580,
+   "lives": 89,
+   "t_min": 176.71
+  },
+  "88": {
+   "type": 6,
+   "score": 33040,
+   "lives": 90,
+   "t_min": 178.59
+  },
+  "89": {
+   "type": 6,
+   "score": 33500,
+   "lives": 91,
+   "t_min": 180.12
+  },
+  "90": {
+   "type": 6,
+   "score": 33960,
+   "lives": 92,
+   "t_min": 183.63
+  },
+  "91": {
+   "type": 7,
+   "score": 34420,
+   "lives": 93,
+   "t_min": 186.89
+  },
+  "92": {
+   "type": 7,
+   "score": 34800,
+   "lives": 94,
+   "t_min": 189.67
+  },
+  "93": {
+   "type": 7,
+   "score": 35180,
+   "lives": 95,
+   "t_min": 191.9
+  },
+  "94": {
+   "type": 7,
+   "score": 35550,
+   "lives": 96,
+   "t_min": 194.21
+  },
+  "95": {
+   "type": 7,
+   "score": 35930,
+   "lives": 97,
+   "t_min": 197.08
+  },
+  "96": {
+   "type": 7,
+   "score": 36330,
+   "lives": 98,
+   "t_min": 198.67
+  },
+  "97": {
+   "type": 7,
+   "score": 36700,
+   "lives": 99,
+   "t_min": 200.53
+  },
+  "98": {
+   "type": 7,
+   "score": 37090,
+   "lives": 100,
+   "t_min": 202.08
+  },
+  "99": {
+   "type": 7,
+   "score": 37480,
+   "lives": 101,
+   "t_min": 204.5
+  },
+  "100": {
+   "type": 7,
+   "score": 37830,
+   "lives": 102,
+   "t_min": 206.07
+  },
+  "101": {
+   "type": 7,
+   "score": 38210,
+   "lives": 103,
+   "t_min": 207.76
+  }
+ },
+ "elapsed_min": 207.77,
+ "verdict": "PASS"
+}
